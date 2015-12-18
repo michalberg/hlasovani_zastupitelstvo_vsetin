@@ -1,4 +1,6 @@
 # olomouc2
 
 
-Další větaXX
+Aktuální znění
+
+Mám návrh
