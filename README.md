@@ -3,4 +3,4 @@
 
 Aktuální znění
 
-Mám návrh
+Pak to někdo zprasil
