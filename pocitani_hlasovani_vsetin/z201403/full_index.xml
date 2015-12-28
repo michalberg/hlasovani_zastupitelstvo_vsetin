@@ -1,0 +1,783 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet type="text/xsl" href="xsls/her_six.xsl" ?>
+<Session number="201403" election_period="3" chairman="Starosta/ka" start_date="08.12.2014" end_date="08.12.2014" number_of_votings="31">
+ <Title>3. Zasedání Zastupitelstva Města Vsetín</Title>
+ <Comment></Comment>
+ <VotingResult number="1" time="08.12.2014 18:07:31" deputies="21" present="21" missing="0" aye="21" no="0" abstained="0" not_voting="0" quorum="1/2A" category="8" category_label="Usnesení" is_procedural="No" is_secret="No" is_first="Yes" is_last="No" location="0001.xml">
+  <Topic number="2. " file="">Schválení programu zasedání zastupitelstva, ZMV schvaluje program zasedání v předloženém/upraveném znění.</Topic>
+  <Comment></Comment>
+  <Deputy id="1" election_period="3" card="2" title="MUDr." first_name="Daniel" name="Bělov" party="KDU-ČSL" vote="AYE" order_a="1"/>
+  <Deputy id="2" election_period="3" card="1" title="BcA." first_name="Michal" name="Berg" party="KOV" vote="AYE" order_a="2"/>
+  <Deputy id="3" election_period="3" card="4" title="" first_name="Jiří" name="Čunek" party="KDU-ČSL" vote="AYE" order_a="3"/>
+  <Deputy id="4" election_period="3" card="3" title="Mgr." first_name="Simona" name="Hlaváčová" party="KDU-ČSL" vote="AYE" order_a="4"/>
+  <Deputy id="5" election_period="3" card="5" title="Ing." first_name="Bohumila" name="Holeňová" party="KDU-ČSL" vote="AYE" order_a="5"/>
+  <Deputy id="6" election_period="3" card="6" title="MUDr. " first_name="Tomáš" name="Husa" party="KOV" vote="AYE" order_a="6"/>
+  <Deputy id="7" election_period="3" card="10" title="Bc." first_name="Roman" name="Kalabus" party="ODS" vote="AYE" order_a="7"/>
+  <Deputy id="8" election_period="3" card="7" title="Bc." first_name="Jiří" name="Kašpar" party="ANO2011" vote="AYE" order_a="8"/>
+  <Deputy id="9" election_period="3" card="13" title="Mgr." first_name="Petr" name="Kořenek" party="ČSSD" vote="AYE" order_a="9"/>
+  <Deputy id="10" election_period="3" card="9" title="Ing." first_name="Jaromír" name="Kudlík" party="ANO2011" vote="AYE" order_a="10"/>
+  <Deputy id="11" election_period="3" card="8" title="MUDr." first_name="Pavol" name="Lambert" party="ANO2011" vote="AYE" order_a="11"/>
+  <Deputy id="12" election_period="3" card="11" title="" first_name="Josef" name="Novosad" party="KSČM" vote="AYE" order_a="12"/>
+  <Deputy id="13" election_period="3" card="17" title="JUDr." first_name="Stanislav" name="Pavelec" party="TOP09" vote="AYE" order_a="13"/>
+  <Deputy id="14" election_period="3" card="12" title="RNDr." first_name="Karel" name="Pavelka" party="KOV" vote="AYE" order_a="14"/>
+  <Deputy id="15" election_period="3" card="16" title="Ing." first_name="Tomáš" name="Pifka" party="STANV" vote="AYE" order_a="15"/>
+  <Deputy id="16" election_period="3" card="20" title="Ing. Ph.D." first_name="Libor" name="Podešva" party="KDU-ČSL" vote="AYE" order_a="16"/>
+  <Deputy id="17" election_period="3" card="15" title="Mgr. " first_name="Dalibor" name="Sedláček" party="ČSSD" vote="AYE" order_a="17"/>
+  <Deputy id="18" election_period="3" card="18" title="Bc." first_name="Iveta" name="Táborská" party="ODS" vote="AYE" order_a="18"/>
+  <Deputy id="19" election_period="3" card="21" title="MUDr." first_name="Róbert" name="Teleky" party="KDU-ČSL" vote="AYE" order_a="19"/>
+  <Deputy id="20" election_period="3" card="14" title="Mgr." first_name="Taťána" name="Valentová Nersesjan" party="ČSSD" vote="AYE" order_a="20"/>
+  <Deputy id="21" election_period="3" card="19" title="" first_name="Zdeněk" name="Vejpustek" party="KSČM" vote="AYE" order_a="21"/>
+ </VotingResult>
+ <VotingResult number="2" time="08.12.2014 18:15:26" deputies="21" present="21" missing="0" aye="16" no="0" abstained="5" not_voting="0" quorum="1/2A" category="8" category_label="Usnesení" is_procedural="No" is_secret="No" is_first="No" is_last="No" location="0002.xml">
+  <Topic number="4. " file="">Volba starosty města Vsetín, ZMV volí v souladu s ustanovením § 84 odst. 2, písm. m) zákona č. 128/2000 Sb., o obcích, ve znění pozdějších předpisů, pana/paní ............................................... , nar. dne .................., bytem ...................................... do funkce starosty města Vsetín.</Topic>
+  <Comment></Comment>
+  <Deputy id="1" election_period="3" card="2" title="MUDr." first_name="Daniel" name="Bělov" party="KDU-ČSL" vote="AYE" order_a="1"/>
+  <Deputy id="2" election_period="3" card="1" title="BcA." first_name="Michal" name="Berg" party="KOV" vote="AYE" order_a="2"/>
+  <Deputy id="3" election_period="3" card="4" title="" first_name="Jiří" name="Čunek" party="KDU-ČSL" vote="AYE" order_a="3"/>
+  <Deputy id="4" election_period="3" card="3" title="Mgr." first_name="Simona" name="Hlaváčová" party="KDU-ČSL" vote="AYE" order_a="4"/>
+  <Deputy id="5" election_period="3" card="5" title="Ing." first_name="Bohumila" name="Holeňová" party="KDU-ČSL" vote="AYE" order_a="5"/>
+  <Deputy id="6" election_period="3" card="6" title="MUDr. " first_name="Tomáš" name="Husa" party="KOV" vote="AYE" order_a="6"/>
+  <Deputy id="7" election_period="3" card="10" title="Bc." first_name="Roman" name="Kalabus" party="ODS" vote="AYE" order_a="7"/>
+  <Deputy id="8" election_period="3" card="7" title="Bc." first_name="Jiří" name="Kašpar" party="ANO2011" vote="AYE" order_a="8"/>
+  <Deputy id="9" election_period="3" card="13" title="Mgr." first_name="Petr" name="Kořenek" party="ČSSD" vote="ABSTAINED" order_a="9"/>
+  <Deputy id="10" election_period="3" card="9" title="Ing." first_name="Jaromír" name="Kudlík" party="ANO2011" vote="AYE" order_a="10"/>
+  <Deputy id="11" election_period="3" card="8" title="MUDr." first_name="Pavol" name="Lambert" party="ANO2011" vote="AYE" order_a="11"/>
+  <Deputy id="12" election_period="3" card="11" title="" first_name="Josef" name="Novosad" party="KSČM" vote="ABSTAINED" order_a="12"/>
+  <Deputy id="13" election_period="3" card="17" title="JUDr." first_name="Stanislav" name="Pavelec" party="TOP09" vote="AYE" order_a="13"/>
+  <Deputy id="14" election_period="3" card="12" title="RNDr." first_name="Karel" name="Pavelka" party="KOV" vote="AYE" order_a="14"/>
+  <Deputy id="15" election_period="3" card="16" title="Ing." first_name="Tomáš" name="Pifka" party="STANV" vote="AYE" order_a="15"/>
+  <Deputy id="16" election_period="3" card="20" title="Ing. Ph.D." first_name="Libor" name="Podešva" party="KDU-ČSL" vote="AYE" order_a="16"/>
+  <Deputy id="17" election_period="3" card="15" title="Mgr. " first_name="Dalibor" name="Sedláček" party="ČSSD" vote="ABSTAINED" order_a="17"/>
+  <Deputy id="18" election_period="3" card="18" title="Bc." first_name="Iveta" name="Táborská" party="ODS" vote="AYE" order_a="18"/>
+  <Deputy id="19" election_period="3" card="21" title="MUDr." first_name="Róbert" name="Teleky" party="KDU-ČSL" vote="AYE" order_a="19"/>
+  <Deputy id="20" election_period="3" card="14" title="Mgr." first_name="Taťána" name="Valentová Nersesjan" party="ČSSD" vote="ABSTAINED" order_a="20"/>
+  <Deputy id="21" election_period="3" card="19" title="" first_name="Zdeněk" name="Vejpustek" party="KSČM" vote="ABSTAINED" order_a="21"/>
+ </VotingResult>
+ <VotingResult number="3" time="08.12.2014 18:22:31" deputies="21" present="21" missing="0" aye="21" no="0" abstained="0" not_voting="0" quorum="1/2A" category="8" category_label="Usnesení" is_procedural="No" is_secret="No" is_first="No" is_last="No" location="0003.xml">
+  <Topic number="5.1 " file="">Určení počtu místostarostů a členů Rady města Vsetín, ZMV stanovuje v souladu s ustanovením § 84 odst. 2, písm. m) zákona č. 128/2000 Sb., o obcích, ve znění pozdějších předpisů, počet místostarostů na tři a počet členů Rady města Vsetín na sedm členů.</Topic>
+  <Comment>7 členů rady</Comment>
+  <Deputy id="1" election_period="3" card="2" title="MUDr." first_name="Daniel" name="Bělov" party="KDU-ČSL" vote="AYE" order_a="1"/>
+  <Deputy id="2" election_period="3" card="1" title="BcA." first_name="Michal" name="Berg" party="KOV" vote="AYE" order_a="2"/>
+  <Deputy id="3" election_period="3" card="4" title="" first_name="Jiří" name="Čunek" party="KDU-ČSL" vote="AYE" order_a="3"/>
+  <Deputy id="4" election_period="3" card="3" title="Mgr." first_name="Simona" name="Hlaváčová" party="KDU-ČSL" vote="AYE" order_a="4"/>
+  <Deputy id="5" election_period="3" card="5" title="Ing." first_name="Bohumila" name="Holeňová" party="KDU-ČSL" vote="AYE" order_a="5"/>
+  <Deputy id="6" election_period="3" card="6" title="MUDr. " first_name="Tomáš" name="Husa" party="KOV" vote="AYE" order_a="6"/>
+  <Deputy id="7" election_period="3" card="10" title="Bc." first_name="Roman" name="Kalabus" party="ODS" vote="AYE" order_a="7"/>
+  <Deputy id="8" election_period="3" card="7" title="Bc." first_name="Jiří" name="Kašpar" party="ANO2011" vote="AYE" order_a="8"/>
+  <Deputy id="9" election_period="3" card="13" title="Mgr." first_name="Petr" name="Kořenek" party="ČSSD" vote="AYE" order_a="9"/>
+  <Deputy id="10" election_period="3" card="9" title="Ing." first_name="Jaromír" name="Kudlík" party="ANO2011" vote="AYE" order_a="10"/>
+  <Deputy id="11" election_period="3" card="8" title="MUDr." first_name="Pavol" name="Lambert" party="ANO2011" vote="AYE" order_a="11"/>
+  <Deputy id="12" election_period="3" card="11" title="" first_name="Josef" name="Novosad" party="KSČM" vote="AYE" order_a="12"/>
+  <Deputy id="13" election_period="3" card="17" title="JUDr." first_name="Stanislav" name="Pavelec" party="TOP09" vote="AYE" order_a="13"/>
+  <Deputy id="14" election_period="3" card="12" title="RNDr." first_name="Karel" name="Pavelka" party="KOV" vote="AYE" order_a="14"/>
+  <Deputy id="15" election_period="3" card="16" title="Ing." first_name="Tomáš" name="Pifka" party="STANV" vote="AYE" order_a="15"/>
+  <Deputy id="16" election_period="3" card="20" title="Ing. Ph.D." first_name="Libor" name="Podešva" party="KDU-ČSL" vote="AYE" order_a="16"/>
+  <Deputy id="17" election_period="3" card="15" title="Mgr. " first_name="Dalibor" name="Sedláček" party="ČSSD" vote="AYE" order_a="17"/>
+  <Deputy id="18" election_period="3" card="18" title="Bc." first_name="Iveta" name="Táborská" party="ODS" vote="AYE" order_a="18"/>
+  <Deputy id="19" election_period="3" card="21" title="MUDr." first_name="Róbert" name="Teleky" party="KDU-ČSL" vote="AYE" order_a="19"/>
+  <Deputy id="20" election_period="3" card="14" title="Mgr." first_name="Taťána" name="Valentová Nersesjan" party="ČSSD" vote="AYE" order_a="20"/>
+  <Deputy id="21" election_period="3" card="19" title="" first_name="Zdeněk" name="Vejpustek" party="KSČM" vote="AYE" order_a="21"/>
+ </VotingResult>
+ <VotingResult number="4" time="08.12.2014 18:23:03" deputies="21" present="21" missing="0" aye="14" no="1" abstained="6" not_voting="0" quorum="1/2A" category="8" category_label="Usnesení" is_procedural="No" is_secret="No" is_first="No" is_last="No" location="0004.xml">
+  <Topic number="5.1 " file="">Určení počtu místostarostů a členů Rady města Vsetín, ZMV stanovuje v souladu s ustanovením § 84 odst. 2, písm. m) zákona č. 128/2000 Sb., o obcích, ve znění pozdějších předpisů, počet místostarostů na tři a počet členů Rady města Vsetín na sedm členů.</Topic>
+  <Comment>2 mistostarostové</Comment>
+  <Deputy id="1" election_period="3" card="2" title="MUDr." first_name="Daniel" name="Bělov" party="KDU-ČSL" vote="AYE" order_a="1"/>
+  <Deputy id="2" election_period="3" card="1" title="BcA." first_name="Michal" name="Berg" party="KOV" vote="AYE" order_a="2"/>
+  <Deputy id="3" election_period="3" card="4" title="" first_name="Jiří" name="Čunek" party="KDU-ČSL" vote="AYE" order_a="3"/>
+  <Deputy id="4" election_period="3" card="3" title="Mgr." first_name="Simona" name="Hlaváčová" party="KDU-ČSL" vote="AYE" order_a="4"/>
+  <Deputy id="5" election_period="3" card="5" title="Ing." first_name="Bohumila" name="Holeňová" party="KDU-ČSL" vote="AYE" order_a="5"/>
+  <Deputy id="6" election_period="3" card="6" title="MUDr. " first_name="Tomáš" name="Husa" party="KOV" vote="AYE" order_a="6"/>
+  <Deputy id="7" election_period="3" card="10" title="Bc." first_name="Roman" name="Kalabus" party="ODS" vote="NO" order_a="7"/>
+  <Deputy id="8" election_period="3" card="7" title="Bc." first_name="Jiří" name="Kašpar" party="ANO2011" vote="AYE" order_a="8"/>
+  <Deputy id="9" election_period="3" card="13" title="Mgr." first_name="Petr" name="Kořenek" party="ČSSD" vote="ABSTAINED" order_a="9"/>
+  <Deputy id="10" election_period="3" card="9" title="Ing." first_name="Jaromír" name="Kudlík" party="ANO2011" vote="AYE" order_a="10"/>
+  <Deputy id="11" election_period="3" card="8" title="MUDr." first_name="Pavol" name="Lambert" party="ANO2011" vote="AYE" order_a="11"/>
+  <Deputy id="12" election_period="3" card="11" title="" first_name="Josef" name="Novosad" party="KSČM" vote="AYE" order_a="12"/>
+  <Deputy id="13" election_period="3" card="17" title="JUDr." first_name="Stanislav" name="Pavelec" party="TOP09" vote="ABSTAINED" order_a="13"/>
+  <Deputy id="14" election_period="3" card="12" title="RNDr." first_name="Karel" name="Pavelka" party="KOV" vote="AYE" order_a="14"/>
+  <Deputy id="15" election_period="3" card="16" title="Ing." first_name="Tomáš" name="Pifka" party="STANV" vote="AYE" order_a="15"/>
+  <Deputy id="16" election_period="3" card="20" title="Ing. Ph.D." first_name="Libor" name="Podešva" party="KDU-ČSL" vote="AYE" order_a="16"/>
+  <Deputy id="17" election_period="3" card="15" title="Mgr. " first_name="Dalibor" name="Sedláček" party="ČSSD" vote="ABSTAINED" order_a="17"/>
+  <Deputy id="18" election_period="3" card="18" title="Bc." first_name="Iveta" name="Táborská" party="ODS" vote="ABSTAINED" order_a="18"/>
+  <Deputy id="19" election_period="3" card="21" title="MUDr." first_name="Róbert" name="Teleky" party="KDU-ČSL" vote="AYE" order_a="19"/>
+  <Deputy id="20" election_period="3" card="14" title="Mgr." first_name="Taťána" name="Valentová Nersesjan" party="ČSSD" vote="ABSTAINED" order_a="20"/>
+  <Deputy id="21" election_period="3" card="19" title="" first_name="Zdeněk" name="Vejpustek" party="KSČM" vote="ABSTAINED" order_a="21"/>
+ </VotingResult>
+ <VotingResult number="5" time="08.12.2014 18:23:56" deputies="21" present="21" missing="0" aye="21" no="0" abstained="0" not_voting="0" quorum="1/2A" category="8" category_label="Usnesení" is_procedural="No" is_secret="No" is_first="No" is_last="No" location="0005.xml">
+  <Topic number="5.2 " file="">Určení uvolněných funkcí, ZMV určuje v souladu s ustanovením § 84 odst. 2, písm. m) zákona č. 128/2000 Sb., o obcích, ve znění pozdějších předpisů, funkce, pro které budou členové Zastupitelstva města Vsetín uvolněni, a to pro funkci starosty a pro dvě/tři funkce místostarostů: a)</Topic>
+  <Comment>uvolnění</Comment>
+  <Deputy id="1" election_period="3" card="2" title="MUDr." first_name="Daniel" name="Bělov" party="KDU-ČSL" vote="AYE" order_a="1"/>
+  <Deputy id="2" election_period="3" card="1" title="BcA." first_name="Michal" name="Berg" party="KOV" vote="AYE" order_a="2"/>
+  <Deputy id="3" election_period="3" card="4" title="" first_name="Jiří" name="Čunek" party="KDU-ČSL" vote="AYE" order_a="3"/>
+  <Deputy id="4" election_period="3" card="3" title="Mgr." first_name="Simona" name="Hlaváčová" party="KDU-ČSL" vote="AYE" order_a="4"/>
+  <Deputy id="5" election_period="3" card="5" title="Ing." first_name="Bohumila" name="Holeňová" party="KDU-ČSL" vote="AYE" order_a="5"/>
+  <Deputy id="6" election_period="3" card="6" title="MUDr. " first_name="Tomáš" name="Husa" party="KOV" vote="AYE" order_a="6"/>
+  <Deputy id="7" election_period="3" card="10" title="Bc." first_name="Roman" name="Kalabus" party="ODS" vote="AYE" order_a="7"/>
+  <Deputy id="8" election_period="3" card="7" title="Bc." first_name="Jiří" name="Kašpar" party="ANO2011" vote="AYE" order_a="8"/>
+  <Deputy id="9" election_period="3" card="13" title="Mgr." first_name="Petr" name="Kořenek" party="ČSSD" vote="AYE" order_a="9"/>
+  <Deputy id="10" election_period="3" card="9" title="Ing." first_name="Jaromír" name="Kudlík" party="ANO2011" vote="AYE" order_a="10"/>
+  <Deputy id="11" election_period="3" card="8" title="MUDr." first_name="Pavol" name="Lambert" party="ANO2011" vote="AYE" order_a="11"/>
+  <Deputy id="12" election_period="3" card="11" title="" first_name="Josef" name="Novosad" party="KSČM" vote="AYE" order_a="12"/>
+  <Deputy id="13" election_period="3" card="17" title="JUDr." first_name="Stanislav" name="Pavelec" party="TOP09" vote="AYE" order_a="13"/>
+  <Deputy id="14" election_period="3" card="12" title="RNDr." first_name="Karel" name="Pavelka" party="KOV" vote="AYE" order_a="14"/>
+  <Deputy id="15" election_period="3" card="16" title="Ing." first_name="Tomáš" name="Pifka" party="STANV" vote="AYE" order_a="15"/>
+  <Deputy id="16" election_period="3" card="20" title="Ing. Ph.D." first_name="Libor" name="Podešva" party="KDU-ČSL" vote="AYE" order_a="16"/>
+  <Deputy id="17" election_period="3" card="15" title="Mgr. " first_name="Dalibor" name="Sedláček" party="ČSSD" vote="AYE" order_a="17"/>
+  <Deputy id="18" election_period="3" card="18" title="Bc." first_name="Iveta" name="Táborská" party="ODS" vote="AYE" order_a="18"/>
+  <Deputy id="19" election_period="3" card="21" title="MUDr." first_name="Róbert" name="Teleky" party="KDU-ČSL" vote="AYE" order_a="19"/>
+  <Deputy id="20" election_period="3" card="14" title="Mgr." first_name="Taťána" name="Valentová Nersesjan" party="ČSSD" vote="AYE" order_a="20"/>
+  <Deputy id="21" election_period="3" card="19" title="" first_name="Zdeněk" name="Vejpustek" party="KSČM" vote="AYE" order_a="21"/>
+ </VotingResult>
+ <VotingResult number="6" time="08.12.2014 18:26:10" deputies="21" present="21" missing="0" aye="9" no="2" abstained="10" not_voting="0" quorum="1/2A" category="8" category_label="Usnesení" is_procedural="No" is_secret="No" is_first="No" is_last="No" location="0006.xml">
+  <Topic number="5.3.1 " file="">Volba I. místostarosty města Vsetín, ZMV volí v souladu s ustanovením § 84 odst. 2, písm. m) zákona č. 128/2000 Sb., o obcích, ve znění pozdějších předpisů, do funkce uvolněného/neuvolněného I. místostarosty města Vsetín pana/paní ....................................., nar. dne .................., bytem ..............................................</Topic>
+  <Comment>Mgr. Kořenek</Comment>
+  <Deputy id="1" election_period="3" card="2" title="MUDr." first_name="Daniel" name="Bělov" party="KDU-ČSL" vote="ABSTAINED" order_a="1"/>
+  <Deputy id="2" election_period="3" card="1" title="BcA." first_name="Michal" name="Berg" party="KOV" vote="ABSTAINED" order_a="2"/>
+  <Deputy id="3" election_period="3" card="4" title="" first_name="Jiří" name="Čunek" party="KDU-ČSL" vote="ABSTAINED" order_a="3"/>
+  <Deputy id="4" election_period="3" card="3" title="Mgr." first_name="Simona" name="Hlaváčová" party="KDU-ČSL" vote="NO" order_a="4"/>
+  <Deputy id="5" election_period="3" card="5" title="Ing." first_name="Bohumila" name="Holeňová" party="KDU-ČSL" vote="NO" order_a="5"/>
+  <Deputy id="6" election_period="3" card="6" title="MUDr. " first_name="Tomáš" name="Husa" party="KOV" vote="ABSTAINED" order_a="6"/>
+  <Deputy id="7" election_period="3" card="10" title="Bc." first_name="Roman" name="Kalabus" party="ODS" vote="AYE" order_a="7"/>
+  <Deputy id="8" election_period="3" card="7" title="Bc." first_name="Jiří" name="Kašpar" party="ANO2011" vote="ABSTAINED" order_a="8"/>
+  <Deputy id="9" election_period="3" card="13" title="Mgr." first_name="Petr" name="Kořenek" party="ČSSD" vote="AYE" order_a="9"/>
+  <Deputy id="10" election_period="3" card="9" title="Ing." first_name="Jaromír" name="Kudlík" party="ANO2011" vote="AYE" order_a="10"/>
+  <Deputy id="11" election_period="3" card="8" title="MUDr." first_name="Pavol" name="Lambert" party="ANO2011" vote="ABSTAINED" order_a="11"/>
+  <Deputy id="12" election_period="3" card="11" title="" first_name="Josef" name="Novosad" party="KSČM" vote="AYE" order_a="12"/>
+  <Deputy id="13" election_period="3" card="17" title="JUDr." first_name="Stanislav" name="Pavelec" party="TOP09" vote="AYE" order_a="13"/>
+  <Deputy id="14" election_period="3" card="12" title="RNDr." first_name="Karel" name="Pavelka" party="KOV" vote="ABSTAINED" order_a="14"/>
+  <Deputy id="15" election_period="3" card="16" title="Ing." first_name="Tomáš" name="Pifka" party="STANV" vote="ABSTAINED" order_a="15"/>
+  <Deputy id="16" election_period="3" card="20" title="Ing. Ph.D." first_name="Libor" name="Podešva" party="KDU-ČSL" vote="ABSTAINED" order_a="16"/>
+  <Deputy id="17" election_period="3" card="15" title="Mgr. " first_name="Dalibor" name="Sedláček" party="ČSSD" vote="AYE" order_a="17"/>
+  <Deputy id="18" election_period="3" card="18" title="Bc." first_name="Iveta" name="Táborská" party="ODS" vote="AYE" order_a="18"/>
+  <Deputy id="19" election_period="3" card="21" title="MUDr." first_name="Róbert" name="Teleky" party="KDU-ČSL" vote="ABSTAINED" order_a="19"/>
+  <Deputy id="20" election_period="3" card="14" title="Mgr." first_name="Taťána" name="Valentová Nersesjan" party="ČSSD" vote="AYE" order_a="20"/>
+  <Deputy id="21" election_period="3" card="19" title="" first_name="Zdeněk" name="Vejpustek" party="KSČM" vote="AYE" order_a="21"/>
+ </VotingResult>
+ <VotingResult number="7" time="08.12.2014 18:27:06" deputies="21" present="21" missing="0" aye="12" no="0" abstained="9" not_voting="0" quorum="1/2A" category="8" category_label="Usnesení" is_procedural="No" is_secret="No" is_first="No" is_last="No" location="0007.xml">
+  <Topic number="5.3.1 " file="">Volba I. místostarosty města Vsetín, ZMV volí v souladu s ustanovením § 84 odst. 2, písm. m) zákona č. 128/2000 Sb., o obcích, ve znění pozdějších předpisů, do funkce uvolněného/neuvolněného I. místostarosty města Vsetín pana/paní ....................................., nar. dne .................., bytem ..............................................</Topic>
+  <Comment>Mgr. Hlaváčová</Comment>
+  <Deputy id="1" election_period="3" card="2" title="MUDr." first_name="Daniel" name="Bělov" party="KDU-ČSL" vote="AYE" order_a="1"/>
+  <Deputy id="2" election_period="3" card="1" title="BcA." first_name="Michal" name="Berg" party="KOV" vote="AYE" order_a="2"/>
+  <Deputy id="3" election_period="3" card="4" title="" first_name="Jiří" name="Čunek" party="KDU-ČSL" vote="AYE" order_a="3"/>
+  <Deputy id="4" election_period="3" card="3" title="Mgr." first_name="Simona" name="Hlaváčová" party="KDU-ČSL" vote="ABSTAINED" order_a="4"/>
+  <Deputy id="5" election_period="3" card="5" title="Ing." first_name="Bohumila" name="Holeňová" party="KDU-ČSL" vote="AYE" order_a="5"/>
+  <Deputy id="6" election_period="3" card="6" title="MUDr. " first_name="Tomáš" name="Husa" party="KOV" vote="AYE" order_a="6"/>
+  <Deputy id="7" election_period="3" card="10" title="Bc." first_name="Roman" name="Kalabus" party="ODS" vote="ABSTAINED" order_a="7"/>
+  <Deputy id="8" election_period="3" card="7" title="Bc." first_name="Jiří" name="Kašpar" party="ANO2011" vote="AYE" order_a="8"/>
+  <Deputy id="9" election_period="3" card="13" title="Mgr." first_name="Petr" name="Kořenek" party="ČSSD" vote="ABSTAINED" order_a="9"/>
+  <Deputy id="10" election_period="3" card="9" title="Ing." first_name="Jaromír" name="Kudlík" party="ANO2011" vote="AYE" order_a="10"/>
+  <Deputy id="11" election_period="3" card="8" title="MUDr." first_name="Pavol" name="Lambert" party="ANO2011" vote="AYE" order_a="11"/>
+  <Deputy id="12" election_period="3" card="11" title="" first_name="Josef" name="Novosad" party="KSČM" vote="ABSTAINED" order_a="12"/>
+  <Deputy id="13" election_period="3" card="17" title="JUDr." first_name="Stanislav" name="Pavelec" party="TOP09" vote="ABSTAINED" order_a="13"/>
+  <Deputy id="14" election_period="3" card="12" title="RNDr." first_name="Karel" name="Pavelka" party="KOV" vote="AYE" order_a="14"/>
+  <Deputy id="15" election_period="3" card="16" title="Ing." first_name="Tomáš" name="Pifka" party="STANV" vote="AYE" order_a="15"/>
+  <Deputy id="16" election_period="3" card="20" title="Ing. Ph.D." first_name="Libor" name="Podešva" party="KDU-ČSL" vote="AYE" order_a="16"/>
+  <Deputy id="17" election_period="3" card="15" title="Mgr. " first_name="Dalibor" name="Sedláček" party="ČSSD" vote="ABSTAINED" order_a="17"/>
+  <Deputy id="18" election_period="3" card="18" title="Bc." first_name="Iveta" name="Táborská" party="ODS" vote="ABSTAINED" order_a="18"/>
+  <Deputy id="19" election_period="3" card="21" title="MUDr." first_name="Róbert" name="Teleky" party="KDU-ČSL" vote="AYE" order_a="19"/>
+  <Deputy id="20" election_period="3" card="14" title="Mgr." first_name="Taťána" name="Valentová Nersesjan" party="ČSSD" vote="ABSTAINED" order_a="20"/>
+  <Deputy id="21" election_period="3" card="19" title="" first_name="Zdeněk" name="Vejpustek" party="KSČM" vote="ABSTAINED" order_a="21"/>
+ </VotingResult>
+ <VotingResult number="8" time="08.12.2014 18:34:56" deputies="21" present="21" missing="0" aye="6" no="3" abstained="12" not_voting="0" quorum="1/2A" category="8" category_label="Usnesení" is_procedural="No" is_secret="No" is_first="No" is_last="No" location="0008.xml">
+  <Topic number="5.3.1 " file="">Volba I. místostarosty města Vsetín, ZMV volí v souladu s ustanovením § 84 odst. 2, písm. m) zákona č. 128/2000 Sb., o obcích, ve znění pozdějších předpisů, do funkce uvolněného/neuvolněného I. místostarosty města Vsetín pana/paní ....................................., nar. dne .................., bytem ..............................................</Topic>
+  <Comment>Bc. Táborská</Comment>
+  <Deputy id="1" election_period="3" card="2" title="MUDr." first_name="Daniel" name="Bělov" party="KDU-ČSL" vote="ABSTAINED" order_a="1"/>
+  <Deputy id="2" election_period="3" card="1" title="BcA." first_name="Michal" name="Berg" party="KOV" vote="ABSTAINED" order_a="2"/>
+  <Deputy id="3" election_period="3" card="4" title="" first_name="Jiří" name="Čunek" party="KDU-ČSL" vote="ABSTAINED" order_a="3"/>
+  <Deputy id="4" election_period="3" card="3" title="Mgr." first_name="Simona" name="Hlaváčová" party="KDU-ČSL" vote="ABSTAINED" order_a="4"/>
+  <Deputy id="5" election_period="3" card="5" title="Ing." first_name="Bohumila" name="Holeňová" party="KDU-ČSL" vote="NO" order_a="5"/>
+  <Deputy id="6" election_period="3" card="6" title="MUDr. " first_name="Tomáš" name="Husa" party="KOV" vote="ABSTAINED" order_a="6"/>
+  <Deputy id="7" election_period="3" card="10" title="Bc." first_name="Roman" name="Kalabus" party="ODS" vote="AYE" order_a="7"/>
+  <Deputy id="8" election_period="3" card="7" title="Bc." first_name="Jiří" name="Kašpar" party="ANO2011" vote="ABSTAINED" order_a="8"/>
+  <Deputy id="9" election_period="3" card="13" title="Mgr." first_name="Petr" name="Kořenek" party="ČSSD" vote="AYE" order_a="9"/>
+  <Deputy id="10" election_period="3" card="9" title="Ing." first_name="Jaromír" name="Kudlík" party="ANO2011" vote="NO" order_a="10"/>
+  <Deputy id="11" election_period="3" card="8" title="MUDr." first_name="Pavol" name="Lambert" party="ANO2011" vote="ABSTAINED" order_a="11"/>
+  <Deputy id="12" election_period="3" card="11" title="" first_name="Josef" name="Novosad" party="KSČM" vote="ABSTAINED" order_a="12"/>
+  <Deputy id="13" election_period="3" card="17" title="JUDr." first_name="Stanislav" name="Pavelec" party="TOP09" vote="AYE" order_a="13"/>
+  <Deputy id="14" election_period="3" card="12" title="RNDr." first_name="Karel" name="Pavelka" party="KOV" vote="ABSTAINED" order_a="14"/>
+  <Deputy id="15" election_period="3" card="16" title="Ing." first_name="Tomáš" name="Pifka" party="STANV" vote="NO" order_a="15"/>
+  <Deputy id="16" election_period="3" card="20" title="Ing. Ph.D." first_name="Libor" name="Podešva" party="KDU-ČSL" vote="ABSTAINED" order_a="16"/>
+  <Deputy id="17" election_period="3" card="15" title="Mgr. " first_name="Dalibor" name="Sedláček" party="ČSSD" vote="AYE" order_a="17"/>
+  <Deputy id="18" election_period="3" card="18" title="Bc." first_name="Iveta" name="Táborská" party="ODS" vote="AYE" order_a="18"/>
+  <Deputy id="19" election_period="3" card="21" title="MUDr." first_name="Róbert" name="Teleky" party="KDU-ČSL" vote="ABSTAINED" order_a="19"/>
+  <Deputy id="20" election_period="3" card="14" title="Mgr." first_name="Taťána" name="Valentová Nersesjan" party="ČSSD" vote="AYE" order_a="20"/>
+  <Deputy id="21" election_period="3" card="19" title="" first_name="Zdeněk" name="Vejpustek" party="KSČM" vote="ABSTAINED" order_a="21"/>
+ </VotingResult>
+ <VotingResult number="9" time="08.12.2014 18:36:04" deputies="21" present="21" missing="0" aye="12" no="2" abstained="7" not_voting="0" quorum="1/2A" category="8" category_label="Usnesení" is_procedural="No" is_secret="No" is_first="No" is_last="No" location="0009.xml">
+  <Topic number="5.3.2 " file="">Volba II. místostarosty města Vsetín, ZMV volí v souladu s ustanovením § 84 odst. 2, písm. m) zákona č. 128/2000 Sb., o obcích, ve znění pozdějších předpisů, do funkce uvolněného/neuvolněného II. místostarosty města Vsetín pana/paní ................................, nar. dne ............................, bytem...................................</Topic>
+  <Comment>Ing. Pifka</Comment>
+  <Deputy id="1" election_period="3" card="2" title="MUDr." first_name="Daniel" name="Bělov" party="KDU-ČSL" vote="AYE" order_a="1"/>
+  <Deputy id="2" election_period="3" card="1" title="BcA." first_name="Michal" name="Berg" party="KOV" vote="AYE" order_a="2"/>
+  <Deputy id="3" election_period="3" card="4" title="" first_name="Jiří" name="Čunek" party="KDU-ČSL" vote="AYE" order_a="3"/>
+  <Deputy id="4" election_period="3" card="3" title="Mgr." first_name="Simona" name="Hlaváčová" party="KDU-ČSL" vote="NO" order_a="4"/>
+  <Deputy id="5" election_period="3" card="5" title="Ing." first_name="Bohumila" name="Holeňová" party="KDU-ČSL" vote="AYE" order_a="5"/>
+  <Deputy id="6" election_period="3" card="6" title="MUDr. " first_name="Tomáš" name="Husa" party="KOV" vote="AYE" order_a="6"/>
+  <Deputy id="7" election_period="3" card="10" title="Bc." first_name="Roman" name="Kalabus" party="ODS" vote="ABSTAINED" order_a="7"/>
+  <Deputy id="8" election_period="3" card="7" title="Bc." first_name="Jiří" name="Kašpar" party="ANO2011" vote="AYE" order_a="8"/>
+  <Deputy id="9" election_period="3" card="13" title="Mgr." first_name="Petr" name="Kořenek" party="ČSSD" vote="ABSTAINED" order_a="9"/>
+  <Deputy id="10" election_period="3" card="9" title="Ing." first_name="Jaromír" name="Kudlík" party="ANO2011" vote="AYE" order_a="10"/>
+  <Deputy id="11" election_period="3" card="8" title="MUDr." first_name="Pavol" name="Lambert" party="ANO2011" vote="AYE" order_a="11"/>
+  <Deputy id="12" election_period="3" card="11" title="" first_name="Josef" name="Novosad" party="KSČM" vote="ABSTAINED" order_a="12"/>
+  <Deputy id="13" election_period="3" card="17" title="JUDr." first_name="Stanislav" name="Pavelec" party="TOP09" vote="ABSTAINED" order_a="13"/>
+  <Deputy id="14" election_period="3" card="12" title="RNDr." first_name="Karel" name="Pavelka" party="KOV" vote="AYE" order_a="14"/>
+  <Deputy id="15" election_period="3" card="16" title="Ing." first_name="Tomáš" name="Pifka" party="STANV" vote="AYE" order_a="15"/>
+  <Deputy id="16" election_period="3" card="20" title="Ing. Ph.D." first_name="Libor" name="Podešva" party="KDU-ČSL" vote="AYE" order_a="16"/>
+  <Deputy id="17" election_period="3" card="15" title="Mgr. " first_name="Dalibor" name="Sedláček" party="ČSSD" vote="ABSTAINED" order_a="17"/>
+  <Deputy id="18" election_period="3" card="18" title="Bc." first_name="Iveta" name="Táborská" party="ODS" vote="NO" order_a="18"/>
+  <Deputy id="19" election_period="3" card="21" title="MUDr." first_name="Róbert" name="Teleky" party="KDU-ČSL" vote="AYE" order_a="19"/>
+  <Deputy id="20" election_period="3" card="14" title="Mgr." first_name="Taťána" name="Valentová Nersesjan" party="ČSSD" vote="ABSTAINED" order_a="20"/>
+  <Deputy id="21" election_period="3" card="19" title="" first_name="Zdeněk" name="Vejpustek" party="KSČM" vote="ABSTAINED" order_a="21"/>
+ </VotingResult>
+ <VotingResult number="10" time="08.12.2014 18:40:41" deputies="21" present="21" missing="0" aye="8" no="5" abstained="8" not_voting="0" quorum="1/2A" category="8" category_label="Usnesení" is_procedural="No" is_secret="No" is_first="No" is_last="No" location="0010.xml">
+  <Topic number="5.4 " file="">Volba dalších členů Rady města Vsetín, ZMV volí v souladu s ustanovením § 84, odst. 2, písm. m) zákona č. 128/2000 Sb., o obcích, ve znění pozdějších předpisů, do funkce člena Rady města Vsetín: - pana/paní .........................., nar. dne ..............................., bytem .............................................. - pana/paní .........................., nar. dne ..............................., bytem .............................................. - pana/paní .........................., nar. dne ..............................., bytem ..............................................</Topic>
+  <Comment>Mgr. Sedláček</Comment>
+  <Deputy id="1" election_period="3" card="2" title="MUDr." first_name="Daniel" name="Bělov" party="KDU-ČSL" vote="ABSTAINED" order_a="1"/>
+  <Deputy id="2" election_period="3" card="1" title="BcA." first_name="Michal" name="Berg" party="KOV" vote="ABSTAINED" order_a="2"/>
+  <Deputy id="3" election_period="3" card="4" title="" first_name="Jiří" name="Čunek" party="KDU-ČSL" vote="NO" order_a="3"/>
+  <Deputy id="4" election_period="3" card="3" title="Mgr." first_name="Simona" name="Hlaváčová" party="KDU-ČSL" vote="NO" order_a="4"/>
+  <Deputy id="5" election_period="3" card="5" title="Ing." first_name="Bohumila" name="Holeňová" party="KDU-ČSL" vote="NO" order_a="5"/>
+  <Deputy id="6" election_period="3" card="6" title="MUDr. " first_name="Tomáš" name="Husa" party="KOV" vote="NO" order_a="6"/>
+  <Deputy id="7" election_period="3" card="10" title="Bc." first_name="Roman" name="Kalabus" party="ODS" vote="AYE" order_a="7"/>
+  <Deputy id="8" election_period="3" card="7" title="Bc." first_name="Jiří" name="Kašpar" party="ANO2011" vote="ABSTAINED" order_a="8"/>
+  <Deputy id="9" election_period="3" card="13" title="Mgr." first_name="Petr" name="Kořenek" party="ČSSD" vote="AYE" order_a="9"/>
+  <Deputy id="10" election_period="3" card="9" title="Ing." first_name="Jaromír" name="Kudlík" party="ANO2011" vote="NO" order_a="10"/>
+  <Deputy id="11" election_period="3" card="8" title="MUDr." first_name="Pavol" name="Lambert" party="ANO2011" vote="ABSTAINED" order_a="11"/>
+  <Deputy id="12" election_period="3" card="11" title="" first_name="Josef" name="Novosad" party="KSČM" vote="AYE" order_a="12"/>
+  <Deputy id="13" election_period="3" card="17" title="JUDr." first_name="Stanislav" name="Pavelec" party="TOP09" vote="AYE" order_a="13"/>
+  <Deputy id="14" election_period="3" card="12" title="RNDr." first_name="Karel" name="Pavelka" party="KOV" vote="ABSTAINED" order_a="14"/>
+  <Deputy id="15" election_period="3" card="16" title="Ing." first_name="Tomáš" name="Pifka" party="STANV" vote="ABSTAINED" order_a="15"/>
+  <Deputy id="16" election_period="3" card="20" title="Ing. Ph.D." first_name="Libor" name="Podešva" party="KDU-ČSL" vote="ABSTAINED" order_a="16"/>
+  <Deputy id="17" election_period="3" card="15" title="Mgr. " first_name="Dalibor" name="Sedláček" party="ČSSD" vote="AYE" order_a="17"/>
+  <Deputy id="18" election_period="3" card="18" title="Bc." first_name="Iveta" name="Táborská" party="ODS" vote="AYE" order_a="18"/>
+  <Deputy id="19" election_period="3" card="21" title="MUDr." first_name="Róbert" name="Teleky" party="KDU-ČSL" vote="ABSTAINED" order_a="19"/>
+  <Deputy id="20" election_period="3" card="14" title="Mgr." first_name="Taťána" name="Valentová Nersesjan" party="ČSSD" vote="AYE" order_a="20"/>
+  <Deputy id="21" election_period="3" card="19" title="" first_name="Zdeněk" name="Vejpustek" party="KSČM" vote="AYE" order_a="21"/>
+ </VotingResult>
+ <VotingResult number="11" time="08.12.2014 18:41:11" deputies="21" present="21" missing="0" aye="8" no="5" abstained="8" not_voting="0" quorum="1/2A" category="8" category_label="Usnesení" is_procedural="No" is_secret="No" is_first="No" is_last="No" location="0011.xml">
+  <Topic number="5.4 " file="">Volba dalších členů Rady města Vsetín, ZMV volí v souladu s ustanovením § 84, odst. 2, písm. m) zákona č. 128/2000 Sb., o obcích, ve znění pozdějších předpisů, do funkce člena Rady města Vsetín: - pana/paní .........................., nar. dne ..............................., bytem .............................................. - pana/paní .........................., nar. dne ..............................., bytem .............................................. - pana/paní .........................., nar. dne ..............................., bytem ..............................................</Topic>
+  <Comment>Mgr. Valentová</Comment>
+  <Deputy id="1" election_period="3" card="2" title="MUDr." first_name="Daniel" name="Bělov" party="KDU-ČSL" vote="ABSTAINED" order_a="1"/>
+  <Deputy id="2" election_period="3" card="1" title="BcA." first_name="Michal" name="Berg" party="KOV" vote="ABSTAINED" order_a="2"/>
+  <Deputy id="3" election_period="3" card="4" title="" first_name="Jiří" name="Čunek" party="KDU-ČSL" vote="NO" order_a="3"/>
+  <Deputy id="4" election_period="3" card="3" title="Mgr." first_name="Simona" name="Hlaváčová" party="KDU-ČSL" vote="NO" order_a="4"/>
+  <Deputy id="5" election_period="3" card="5" title="Ing." first_name="Bohumila" name="Holeňová" party="KDU-ČSL" vote="NO" order_a="5"/>
+  <Deputy id="6" election_period="3" card="6" title="MUDr. " first_name="Tomáš" name="Husa" party="KOV" vote="NO" order_a="6"/>
+  <Deputy id="7" election_period="3" card="10" title="Bc." first_name="Roman" name="Kalabus" party="ODS" vote="AYE" order_a="7"/>
+  <Deputy id="8" election_period="3" card="7" title="Bc." first_name="Jiří" name="Kašpar" party="ANO2011" vote="ABSTAINED" order_a="8"/>
+  <Deputy id="9" election_period="3" card="13" title="Mgr." first_name="Petr" name="Kořenek" party="ČSSD" vote="AYE" order_a="9"/>
+  <Deputy id="10" election_period="3" card="9" title="Ing." first_name="Jaromír" name="Kudlík" party="ANO2011" vote="NO" order_a="10"/>
+  <Deputy id="11" election_period="3" card="8" title="MUDr." first_name="Pavol" name="Lambert" party="ANO2011" vote="ABSTAINED" order_a="11"/>
+  <Deputy id="12" election_period="3" card="11" title="" first_name="Josef" name="Novosad" party="KSČM" vote="AYE" order_a="12"/>
+  <Deputy id="13" election_period="3" card="17" title="JUDr." first_name="Stanislav" name="Pavelec" party="TOP09" vote="AYE" order_a="13"/>
+  <Deputy id="14" election_period="3" card="12" title="RNDr." first_name="Karel" name="Pavelka" party="KOV" vote="ABSTAINED" order_a="14"/>
+  <Deputy id="15" election_period="3" card="16" title="Ing." first_name="Tomáš" name="Pifka" party="STANV" vote="ABSTAINED" order_a="15"/>
+  <Deputy id="16" election_period="3" card="20" title="Ing. Ph.D." first_name="Libor" name="Podešva" party="KDU-ČSL" vote="ABSTAINED" order_a="16"/>
+  <Deputy id="17" election_period="3" card="15" title="Mgr. " first_name="Dalibor" name="Sedláček" party="ČSSD" vote="AYE" order_a="17"/>
+  <Deputy id="18" election_period="3" card="18" title="Bc." first_name="Iveta" name="Táborská" party="ODS" vote="AYE" order_a="18"/>
+  <Deputy id="19" election_period="3" card="21" title="MUDr." first_name="Róbert" name="Teleky" party="KDU-ČSL" vote="ABSTAINED" order_a="19"/>
+  <Deputy id="20" election_period="3" card="14" title="Mgr." first_name="Taťána" name="Valentová Nersesjan" party="ČSSD" vote="AYE" order_a="20"/>
+  <Deputy id="21" election_period="3" card="19" title="" first_name="Zdeněk" name="Vejpustek" party="KSČM" vote="AYE" order_a="21"/>
+ </VotingResult>
+ <VotingResult number="12" time="08.12.2014 18:41:41" deputies="21" present="21" missing="0" aye="15" no="0" abstained="6" not_voting="0" quorum="1/2A" category="8" category_label="Usnesení" is_procedural="No" is_secret="No" is_first="No" is_last="No" location="0012.xml">
+  <Topic number="5.4 " file="">Volba dalších členů Rady města Vsetín, ZMV volí v souladu s ustanovením § 84, odst. 2, písm. m) zákona č. 128/2000 Sb., o obcích, ve znění pozdějších předpisů, do funkce člena Rady města Vsetín: - pana/paní .........................., nar. dne ..............................., bytem .............................................. - pana/paní .........................., nar. dne ..............................., bytem .............................................. - pana/paní .........................., nar. dne ..............................., bytem ..............................................</Topic>
+  <Comment>Holeňová</Comment>
+  <Deputy id="1" election_period="3" card="2" title="MUDr." first_name="Daniel" name="Bělov" party="KDU-ČSL" vote="AYE" order_a="1"/>
+  <Deputy id="2" election_period="3" card="1" title="BcA." first_name="Michal" name="Berg" party="KOV" vote="AYE" order_a="2"/>
+  <Deputy id="3" election_period="3" card="4" title="" first_name="Jiří" name="Čunek" party="KDU-ČSL" vote="AYE" order_a="3"/>
+  <Deputy id="4" election_period="3" card="3" title="Mgr." first_name="Simona" name="Hlaváčová" party="KDU-ČSL" vote="AYE" order_a="4"/>
+  <Deputy id="5" election_period="3" card="5" title="Ing." first_name="Bohumila" name="Holeňová" party="KDU-ČSL" vote="AYE" order_a="5"/>
+  <Deputy id="6" election_period="3" card="6" title="MUDr. " first_name="Tomáš" name="Husa" party="KOV" vote="AYE" order_a="6"/>
+  <Deputy id="7" election_period="3" card="10" title="Bc." first_name="Roman" name="Kalabus" party="ODS" vote="AYE" order_a="7"/>
+  <Deputy id="8" election_period="3" card="7" title="Bc." first_name="Jiří" name="Kašpar" party="ANO2011" vote="AYE" order_a="8"/>
+  <Deputy id="9" election_period="3" card="13" title="Mgr." first_name="Petr" name="Kořenek" party="ČSSD" vote="ABSTAINED" order_a="9"/>
+  <Deputy id="10" election_period="3" card="9" title="Ing." first_name="Jaromír" name="Kudlík" party="ANO2011" vote="AYE" order_a="10"/>
+  <Deputy id="11" election_period="3" card="8" title="MUDr." first_name="Pavol" name="Lambert" party="ANO2011" vote="AYE" order_a="11"/>
+  <Deputy id="12" election_period="3" card="11" title="" first_name="Josef" name="Novosad" party="KSČM" vote="ABSTAINED" order_a="12"/>
+  <Deputy id="13" election_period="3" card="17" title="JUDr." first_name="Stanislav" name="Pavelec" party="TOP09" vote="ABSTAINED" order_a="13"/>
+  <Deputy id="14" election_period="3" card="12" title="RNDr." first_name="Karel" name="Pavelka" party="KOV" vote="AYE" order_a="14"/>
+  <Deputy id="15" election_period="3" card="16" title="Ing." first_name="Tomáš" name="Pifka" party="STANV" vote="AYE" order_a="15"/>
+  <Deputy id="16" election_period="3" card="20" title="Ing. Ph.D." first_name="Libor" name="Podešva" party="KDU-ČSL" vote="AYE" order_a="16"/>
+  <Deputy id="17" election_period="3" card="15" title="Mgr. " first_name="Dalibor" name="Sedláček" party="ČSSD" vote="ABSTAINED" order_a="17"/>
+  <Deputy id="18" election_period="3" card="18" title="Bc." first_name="Iveta" name="Táborská" party="ODS" vote="AYE" order_a="18"/>
+  <Deputy id="19" election_period="3" card="21" title="MUDr." first_name="Róbert" name="Teleky" party="KDU-ČSL" vote="AYE" order_a="19"/>
+  <Deputy id="20" election_period="3" card="14" title="Mgr." first_name="Taťána" name="Valentová Nersesjan" party="ČSSD" vote="ABSTAINED" order_a="20"/>
+  <Deputy id="21" election_period="3" card="19" title="" first_name="Zdeněk" name="Vejpustek" party="KSČM" vote="ABSTAINED" order_a="21"/>
+ </VotingResult>
+ <VotingResult number="13" time="08.12.2014 18:42:52" deputies="21" present="21" missing="0" aye="16" no="0" abstained="5" not_voting="0" quorum="1/2A" category="8" category_label="Usnesení" is_procedural="No" is_secret="No" is_first="No" is_last="No" location="0013.xml">
+  <Topic number="5.4 " file="">Volba dalších členů Rady města Vsetín, ZMV volí v souladu s ustanovením § 84, odst. 2, písm. m) zákona č. 128/2000 Sb., o obcích, ve znění pozdějších předpisů, do funkce člena Rady města Vsetín: - pana/paní .........................., nar. dne ..............................., bytem .............................................. - pana/paní .........................., nar. dne ..............................., bytem .............................................. - pana/paní .........................., nar. dne ..............................., bytem ..............................................</Topic>
+  <Comment>MUDr. Teleky</Comment>
+  <Deputy id="1" election_period="3" card="2" title="MUDr." first_name="Daniel" name="Bělov" party="KDU-ČSL" vote="AYE" order_a="1"/>
+  <Deputy id="2" election_period="3" card="1" title="BcA." first_name="Michal" name="Berg" party="KOV" vote="AYE" order_a="2"/>
+  <Deputy id="3" election_period="3" card="4" title="" first_name="Jiří" name="Čunek" party="KDU-ČSL" vote="AYE" order_a="3"/>
+  <Deputy id="4" election_period="3" card="3" title="Mgr." first_name="Simona" name="Hlaváčová" party="KDU-ČSL" vote="AYE" order_a="4"/>
+  <Deputy id="5" election_period="3" card="5" title="Ing." first_name="Bohumila" name="Holeňová" party="KDU-ČSL" vote="AYE" order_a="5"/>
+  <Deputy id="6" election_period="3" card="6" title="MUDr. " first_name="Tomáš" name="Husa" party="KOV" vote="AYE" order_a="6"/>
+  <Deputy id="7" election_period="3" card="10" title="Bc." first_name="Roman" name="Kalabus" party="ODS" vote="ABSTAINED" order_a="7"/>
+  <Deputy id="8" election_period="3" card="7" title="Bc." first_name="Jiří" name="Kašpar" party="ANO2011" vote="AYE" order_a="8"/>
+  <Deputy id="9" election_period="3" card="13" title="Mgr." first_name="Petr" name="Kořenek" party="ČSSD" vote="AYE" order_a="9"/>
+  <Deputy id="10" election_period="3" card="9" title="Ing." first_name="Jaromír" name="Kudlík" party="ANO2011" vote="AYE" order_a="10"/>
+  <Deputy id="11" election_period="3" card="8" title="MUDr." first_name="Pavol" name="Lambert" party="ANO2011" vote="AYE" order_a="11"/>
+  <Deputy id="12" election_period="3" card="11" title="" first_name="Josef" name="Novosad" party="KSČM" vote="ABSTAINED" order_a="12"/>
+  <Deputy id="13" election_period="3" card="17" title="JUDr." first_name="Stanislav" name="Pavelec" party="TOP09" vote="AYE" order_a="13"/>
+  <Deputy id="14" election_period="3" card="12" title="RNDr." first_name="Karel" name="Pavelka" party="KOV" vote="AYE" order_a="14"/>
+  <Deputy id="15" election_period="3" card="16" title="Ing." first_name="Tomáš" name="Pifka" party="STANV" vote="AYE" order_a="15"/>
+  <Deputy id="16" election_period="3" card="20" title="Ing. Ph.D." first_name="Libor" name="Podešva" party="KDU-ČSL" vote="AYE" order_a="16"/>
+  <Deputy id="17" election_period="3" card="15" title="Mgr. " first_name="Dalibor" name="Sedláček" party="ČSSD" vote="AYE" order_a="17"/>
+  <Deputy id="18" election_period="3" card="18" title="Bc." first_name="Iveta" name="Táborská" party="ODS" vote="ABSTAINED" order_a="18"/>
+  <Deputy id="19" election_period="3" card="21" title="MUDr." first_name="Róbert" name="Teleky" party="KDU-ČSL" vote="ABSTAINED" order_a="19"/>
+  <Deputy id="20" election_period="3" card="14" title="Mgr." first_name="Taťána" name="Valentová Nersesjan" party="ČSSD" vote="AYE" order_a="20"/>
+  <Deputy id="21" election_period="3" card="19" title="" first_name="Zdeněk" name="Vejpustek" party="KSČM" vote="ABSTAINED" order_a="21"/>
+ </VotingResult>
+ <VotingResult number="14" time="08.12.2014 18:43:47" deputies="21" present="21" missing="0" aye="16" no="0" abstained="5" not_voting="0" quorum="1/2A" category="8" category_label="Usnesení" is_procedural="No" is_secret="No" is_first="No" is_last="No" location="0014.xml">
+  <Topic number="5.4 " file="">Volba dalších členů Rady města Vsetín, ZMV volí v souladu s ustanovením § 84, odst. 2, písm. m) zákona č. 128/2000 Sb., o obcích, ve znění pozdějších předpisů, do funkce člena Rady města Vsetín: - pana/paní .........................., nar. dne ..............................., bytem .............................................. - pana/paní .........................., nar. dne ..............................., bytem .............................................. - pana/paní .........................., nar. dne ..............................., bytem ..............................................</Topic>
+  <Comment>Bc. Kašpar</Comment>
+  <Deputy id="1" election_period="3" card="2" title="MUDr." first_name="Daniel" name="Bělov" party="KDU-ČSL" vote="AYE" order_a="1"/>
+  <Deputy id="2" election_period="3" card="1" title="BcA." first_name="Michal" name="Berg" party="KOV" vote="AYE" order_a="2"/>
+  <Deputy id="3" election_period="3" card="4" title="" first_name="Jiří" name="Čunek" party="KDU-ČSL" vote="AYE" order_a="3"/>
+  <Deputy id="4" election_period="3" card="3" title="Mgr." first_name="Simona" name="Hlaváčová" party="KDU-ČSL" vote="AYE" order_a="4"/>
+  <Deputy id="5" election_period="3" card="5" title="Ing." first_name="Bohumila" name="Holeňová" party="KDU-ČSL" vote="AYE" order_a="5"/>
+  <Deputy id="6" election_period="3" card="6" title="MUDr. " first_name="Tomáš" name="Husa" party="KOV" vote="AYE" order_a="6"/>
+  <Deputy id="7" election_period="3" card="10" title="Bc." first_name="Roman" name="Kalabus" party="ODS" vote="AYE" order_a="7"/>
+  <Deputy id="8" election_period="3" card="7" title="Bc." first_name="Jiří" name="Kašpar" party="ANO2011" vote="ABSTAINED" order_a="8"/>
+  <Deputy id="9" election_period="3" card="13" title="Mgr." first_name="Petr" name="Kořenek" party="ČSSD" vote="ABSTAINED" order_a="9"/>
+  <Deputy id="10" election_period="3" card="9" title="Ing." first_name="Jaromír" name="Kudlík" party="ANO2011" vote="AYE" order_a="10"/>
+  <Deputy id="11" election_period="3" card="8" title="MUDr." first_name="Pavol" name="Lambert" party="ANO2011" vote="AYE" order_a="11"/>
+  <Deputy id="12" election_period="3" card="11" title="" first_name="Josef" name="Novosad" party="KSČM" vote="AYE" order_a="12"/>
+  <Deputy id="13" election_period="3" card="17" title="JUDr." first_name="Stanislav" name="Pavelec" party="TOP09" vote="ABSTAINED" order_a="13"/>
+  <Deputy id="14" election_period="3" card="12" title="RNDr." first_name="Karel" name="Pavelka" party="KOV" vote="AYE" order_a="14"/>
+  <Deputy id="15" election_period="3" card="16" title="Ing." first_name="Tomáš" name="Pifka" party="STANV" vote="AYE" order_a="15"/>
+  <Deputy id="16" election_period="3" card="20" title="Ing. Ph.D." first_name="Libor" name="Podešva" party="KDU-ČSL" vote="AYE" order_a="16"/>
+  <Deputy id="17" election_period="3" card="15" title="Mgr. " first_name="Dalibor" name="Sedláček" party="ČSSD" vote="AYE" order_a="17"/>
+  <Deputy id="18" election_period="3" card="18" title="Bc." first_name="Iveta" name="Táborská" party="ODS" vote="ABSTAINED" order_a="18"/>
+  <Deputy id="19" election_period="3" card="21" title="MUDr." first_name="Róbert" name="Teleky" party="KDU-ČSL" vote="AYE" order_a="19"/>
+  <Deputy id="20" election_period="3" card="14" title="Mgr." first_name="Taťána" name="Valentová Nersesjan" party="ČSSD" vote="ABSTAINED" order_a="20"/>
+  <Deputy id="21" election_period="3" card="19" title="" first_name="Zdeněk" name="Vejpustek" party="KSČM" vote="AYE" order_a="21"/>
+ </VotingResult>
+ <VotingResult number="15" time="08.12.2014 18:44:44" deputies="21" present="21" missing="0" aye="15" no="1" abstained="5" not_voting="0" quorum="1/2A" category="8" category_label="Usnesení" is_procedural="No" is_secret="No" is_first="No" is_last="No" location="0015.xml">
+  <Topic number="5.4 " file="">Volba dalších členů Rady města Vsetín, ZMV volí v souladu s ustanovením § 84, odst. 2, písm. m) zákona č. 128/2000 Sb., o obcích, ve znění pozdějších předpisů, do funkce člena Rady města Vsetín: - pana/paní .........................., nar. dne ..............................., bytem .............................................. - pana/paní .........................., nar. dne ..............................., bytem .............................................. - pana/paní .........................., nar. dne ..............................., bytem ..............................................</Topic>
+  <Comment>Ing. Kudlík</Comment>
+  <Deputy id="1" election_period="3" card="2" title="MUDr." first_name="Daniel" name="Bělov" party="KDU-ČSL" vote="AYE" order_a="1"/>
+  <Deputy id="2" election_period="3" card="1" title="BcA." first_name="Michal" name="Berg" party="KOV" vote="AYE" order_a="2"/>
+  <Deputy id="3" election_period="3" card="4" title="" first_name="Jiří" name="Čunek" party="KDU-ČSL" vote="AYE" order_a="3"/>
+  <Deputy id="4" election_period="3" card="3" title="Mgr." first_name="Simona" name="Hlaváčová" party="KDU-ČSL" vote="AYE" order_a="4"/>
+  <Deputy id="5" election_period="3" card="5" title="Ing." first_name="Bohumila" name="Holeňová" party="KDU-ČSL" vote="AYE" order_a="5"/>
+  <Deputy id="6" election_period="3" card="6" title="MUDr. " first_name="Tomáš" name="Husa" party="KOV" vote="AYE" order_a="6"/>
+  <Deputy id="7" election_period="3" card="10" title="Bc." first_name="Roman" name="Kalabus" party="ODS" vote="ABSTAINED" order_a="7"/>
+  <Deputy id="8" election_period="3" card="7" title="Bc." first_name="Jiří" name="Kašpar" party="ANO2011" vote="AYE" order_a="8"/>
+  <Deputy id="9" election_period="3" card="13" title="Mgr." first_name="Petr" name="Kořenek" party="ČSSD" vote="AYE" order_a="9"/>
+  <Deputy id="10" election_period="3" card="9" title="Ing." first_name="Jaromír" name="Kudlík" party="ANO2011" vote="AYE" order_a="10"/>
+  <Deputy id="11" election_period="3" card="8" title="MUDr." first_name="Pavol" name="Lambert" party="ANO2011" vote="AYE" order_a="11"/>
+  <Deputy id="12" election_period="3" card="11" title="" first_name="Josef" name="Novosad" party="KSČM" vote="ABSTAINED" order_a="12"/>
+  <Deputy id="13" election_period="3" card="17" title="JUDr." first_name="Stanislav" name="Pavelec" party="TOP09" vote="NO" order_a="13"/>
+  <Deputy id="14" election_period="3" card="12" title="RNDr." first_name="Karel" name="Pavelka" party="KOV" vote="AYE" order_a="14"/>
+  <Deputy id="15" election_period="3" card="16" title="Ing." first_name="Tomáš" name="Pifka" party="STANV" vote="AYE" order_a="15"/>
+  <Deputy id="16" election_period="3" card="20" title="Ing. Ph.D." first_name="Libor" name="Podešva" party="KDU-ČSL" vote="AYE" order_a="16"/>
+  <Deputy id="17" election_period="3" card="15" title="Mgr. " first_name="Dalibor" name="Sedláček" party="ČSSD" vote="ABSTAINED" order_a="17"/>
+  <Deputy id="18" election_period="3" card="18" title="Bc." first_name="Iveta" name="Táborská" party="ODS" vote="ABSTAINED" order_a="18"/>
+  <Deputy id="19" election_period="3" card="21" title="MUDr." first_name="Róbert" name="Teleky" party="KDU-ČSL" vote="AYE" order_a="19"/>
+  <Deputy id="20" election_period="3" card="14" title="Mgr." first_name="Taťána" name="Valentová Nersesjan" party="ČSSD" vote="ABSTAINED" order_a="20"/>
+  <Deputy id="21" election_period="3" card="19" title="" first_name="Zdeněk" name="Vejpustek" party="KSČM" vote="AYE" order_a="21"/>
+ </VotingResult>
+ <VotingResult number="16" time="08.12.2014 18:47:27" deputies="21" present="21" missing="0" aye="21" no="0" abstained="0" not_voting="0" quorum="1/2A" category="8" category_label="Usnesení" is_procedural="No" is_secret="No" is_first="No" is_last="No" location="0016.xml">
+  <Topic number="6. " file="">Určení místostarosty, který bude zastupovat starostu v době jeho nepřítomnosti a určení pořadí zastupování ostatními místostarosty a)</Topic>
+  <Comment>ZMV schvaluje, že I. místostarosta bude starostu zastupovat v době jeho nepřítomnosti nebo v době, kdy starosta nevykonává funkci. b)</Comment>
+  <Deputy id="1" election_period="3" card="2" title="MUDr." first_name="Daniel" name="Bělov" party="KDU-ČSL" vote="AYE" order_a="1"/>
+  <Deputy id="2" election_period="3" card="1" title="BcA." first_name="Michal" name="Berg" party="KOV" vote="AYE" order_a="2"/>
+  <Deputy id="3" election_period="3" card="4" title="" first_name="Jiří" name="Čunek" party="KDU-ČSL" vote="AYE" order_a="3"/>
+  <Deputy id="4" election_period="3" card="3" title="Mgr." first_name="Simona" name="Hlaváčová" party="KDU-ČSL" vote="AYE" order_a="4"/>
+  <Deputy id="5" election_period="3" card="5" title="Ing." first_name="Bohumila" name="Holeňová" party="KDU-ČSL" vote="AYE" order_a="5"/>
+  <Deputy id="6" election_period="3" card="6" title="MUDr. " first_name="Tomáš" name="Husa" party="KOV" vote="AYE" order_a="6"/>
+  <Deputy id="7" election_period="3" card="10" title="Bc." first_name="Roman" name="Kalabus" party="ODS" vote="AYE" order_a="7"/>
+  <Deputy id="8" election_period="3" card="7" title="Bc." first_name="Jiří" name="Kašpar" party="ANO2011" vote="AYE" order_a="8"/>
+  <Deputy id="9" election_period="3" card="13" title="Mgr." first_name="Petr" name="Kořenek" party="ČSSD" vote="AYE" order_a="9"/>
+  <Deputy id="10" election_period="3" card="9" title="Ing." first_name="Jaromír" name="Kudlík" party="ANO2011" vote="AYE" order_a="10"/>
+  <Deputy id="11" election_period="3" card="8" title="MUDr." first_name="Pavol" name="Lambert" party="ANO2011" vote="AYE" order_a="11"/>
+  <Deputy id="12" election_period="3" card="11" title="" first_name="Josef" name="Novosad" party="KSČM" vote="AYE" order_a="12"/>
+  <Deputy id="13" election_period="3" card="17" title="JUDr." first_name="Stanislav" name="Pavelec" party="TOP09" vote="AYE" order_a="13"/>
+  <Deputy id="14" election_period="3" card="12" title="RNDr." first_name="Karel" name="Pavelka" party="KOV" vote="AYE" order_a="14"/>
+  <Deputy id="15" election_period="3" card="16" title="Ing." first_name="Tomáš" name="Pifka" party="STANV" vote="AYE" order_a="15"/>
+  <Deputy id="16" election_period="3" card="20" title="Ing. Ph.D." first_name="Libor" name="Podešva" party="KDU-ČSL" vote="AYE" order_a="16"/>
+  <Deputy id="17" election_period="3" card="15" title="Mgr. " first_name="Dalibor" name="Sedláček" party="ČSSD" vote="AYE" order_a="17"/>
+  <Deputy id="18" election_period="3" card="18" title="Bc." first_name="Iveta" name="Táborská" party="ODS" vote="AYE" order_a="18"/>
+  <Deputy id="19" election_period="3" card="21" title="MUDr." first_name="Róbert" name="Teleky" party="KDU-ČSL" vote="AYE" order_a="19"/>
+  <Deputy id="20" election_period="3" card="14" title="Mgr." first_name="Taťána" name="Valentová Nersesjan" party="ČSSD" vote="AYE" order_a="20"/>
+  <Deputy id="21" election_period="3" card="19" title="" first_name="Zdeněk" name="Vejpustek" party="KSČM" vote="AYE" order_a="21"/>
+ </VotingResult>
+ <VotingResult number="17" time="08.12.2014 18:49:31" deputies="21" present="21" missing="0" aye="21" no="0" abstained="0" not_voting="0" quorum="1/2A" category="8" category_label="Usnesení" is_procedural="No" is_secret="No" is_first="No" is_last="No" location="0017.xml">
+  <Topic number="7. " file="">Delegace zástupců města Vsetín na valné hromady obchodních společností s majetkovou účastí města, ZMV určuje starostu města Vsetín k zastupování města Vsetín na valných hromadách obchodních společností a) ...  b) ... c) ... d) ... Zástupce je oprávněn na valných hromadách činit veškeré právní úkony, k nimž je oprávněno město Vsetín jako akcionář nebo společník uvedených společností. V případě, že starosta města jakožto zástupce města Vsetín se nebude moci z jakéhokoliv důvodu zúčastnit některé valné hromady, Zastupitelstvo města určuje náhradníka - I. místostarostu.  V případě, že starosta města, ani I. místostarosta jakožto zástupce města Vsetín se nebude moci z jakéhokoliv důvodu zúčastnit některé valné hromady, Zastupitelstvo města určuje dalšího náhradníka -  II. místostarostu.  V případě, že starosta města, ani I. místostarosta, ani II. místostarosta jakožto zástupce města Vsetín se nebude moci z jakéhokoliv důvodu zúčastnit některé valné hromady, Zastupitelstvo města určuje dalšího náhradníka -  III. místostarostu.  </Topic>
+  <Comment></Comment>
+  <Deputy id="1" election_period="3" card="2" title="MUDr." first_name="Daniel" name="Bělov" party="KDU-ČSL" vote="AYE" order_a="1"/>
+  <Deputy id="2" election_period="3" card="1" title="BcA." first_name="Michal" name="Berg" party="KOV" vote="AYE" order_a="2"/>
+  <Deputy id="3" election_period="3" card="4" title="" first_name="Jiří" name="Čunek" party="KDU-ČSL" vote="AYE" order_a="3"/>
+  <Deputy id="4" election_period="3" card="3" title="Mgr." first_name="Simona" name="Hlaváčová" party="KDU-ČSL" vote="AYE" order_a="4"/>
+  <Deputy id="5" election_period="3" card="5" title="Ing." first_name="Bohumila" name="Holeňová" party="KDU-ČSL" vote="AYE" order_a="5"/>
+  <Deputy id="6" election_period="3" card="6" title="MUDr. " first_name="Tomáš" name="Husa" party="KOV" vote="AYE" order_a="6"/>
+  <Deputy id="7" election_period="3" card="10" title="Bc." first_name="Roman" name="Kalabus" party="ODS" vote="AYE" order_a="7"/>
+  <Deputy id="8" election_period="3" card="7" title="Bc." first_name="Jiří" name="Kašpar" party="ANO2011" vote="AYE" order_a="8"/>
+  <Deputy id="9" election_period="3" card="13" title="Mgr." first_name="Petr" name="Kořenek" party="ČSSD" vote="AYE" order_a="9"/>
+  <Deputy id="10" election_period="3" card="9" title="Ing." first_name="Jaromír" name="Kudlík" party="ANO2011" vote="AYE" order_a="10"/>
+  <Deputy id="11" election_period="3" card="8" title="MUDr." first_name="Pavol" name="Lambert" party="ANO2011" vote="AYE" order_a="11"/>
+  <Deputy id="12" election_period="3" card="11" title="" first_name="Josef" name="Novosad" party="KSČM" vote="AYE" order_a="12"/>
+  <Deputy id="13" election_period="3" card="17" title="JUDr." first_name="Stanislav" name="Pavelec" party="TOP09" vote="AYE" order_a="13"/>
+  <Deputy id="14" election_period="3" card="12" title="RNDr." first_name="Karel" name="Pavelka" party="KOV" vote="AYE" order_a="14"/>
+  <Deputy id="15" election_period="3" card="16" title="Ing." first_name="Tomáš" name="Pifka" party="STANV" vote="AYE" order_a="15"/>
+  <Deputy id="16" election_period="3" card="20" title="Ing. Ph.D." first_name="Libor" name="Podešva" party="KDU-ČSL" vote="AYE" order_a="16"/>
+  <Deputy id="17" election_period="3" card="15" title="Mgr. " first_name="Dalibor" name="Sedláček" party="ČSSD" vote="AYE" order_a="17"/>
+  <Deputy id="18" election_period="3" card="18" title="Bc." first_name="Iveta" name="Táborská" party="ODS" vote="AYE" order_a="18"/>
+  <Deputy id="19" election_period="3" card="21" title="MUDr." first_name="Róbert" name="Teleky" party="KDU-ČSL" vote="AYE" order_a="19"/>
+  <Deputy id="20" election_period="3" card="14" title="Mgr." first_name="Taťána" name="Valentová Nersesjan" party="ČSSD" vote="AYE" order_a="20"/>
+  <Deputy id="21" election_period="3" card="19" title="" first_name="Zdeněk" name="Vejpustek" party="KSČM" vote="AYE" order_a="21"/>
+ </VotingResult>
+ <VotingResult number="18" time="08.12.2014 18:51:04" deputies="21" present="21" missing="0" aye="21" no="0" abstained="0" not_voting="0" quorum="1/2A" category="8" category_label="Usnesení" is_procedural="No" is_secret="No" is_first="No" is_last="No" location="0018.xml">
+  <Topic number="8.1 " file="">Určení počtu členů finančního a kontrolního výboru, ZMV stanovuje v souladu s ustanovením s § 84, odst. 2, písm. m) a § 117, zákona č. 128/2000 Sb., o obcích, ve znění pozdějších předpisů, počet členů finančního na pět členů a kontrolního výboru na pět (3) členů.</Topic>
+  <Comment>5 členů</Comment>
+  <Deputy id="1" election_period="3" card="2" title="MUDr." first_name="Daniel" name="Bělov" party="KDU-ČSL" vote="AYE" order_a="1"/>
+  <Deputy id="2" election_period="3" card="1" title="BcA." first_name="Michal" name="Berg" party="KOV" vote="AYE" order_a="2"/>
+  <Deputy id="3" election_period="3" card="4" title="" first_name="Jiří" name="Čunek" party="KDU-ČSL" vote="AYE" order_a="3"/>
+  <Deputy id="4" election_period="3" card="3" title="Mgr." first_name="Simona" name="Hlaváčová" party="KDU-ČSL" vote="AYE" order_a="4"/>
+  <Deputy id="5" election_period="3" card="5" title="Ing." first_name="Bohumila" name="Holeňová" party="KDU-ČSL" vote="AYE" order_a="5"/>
+  <Deputy id="6" election_period="3" card="6" title="MUDr. " first_name="Tomáš" name="Husa" party="KOV" vote="AYE" order_a="6"/>
+  <Deputy id="7" election_period="3" card="10" title="Bc." first_name="Roman" name="Kalabus" party="ODS" vote="AYE" order_a="7"/>
+  <Deputy id="8" election_period="3" card="7" title="Bc." first_name="Jiří" name="Kašpar" party="ANO2011" vote="AYE" order_a="8"/>
+  <Deputy id="9" election_period="3" card="13" title="Mgr." first_name="Petr" name="Kořenek" party="ČSSD" vote="AYE" order_a="9"/>
+  <Deputy id="10" election_period="3" card="9" title="Ing." first_name="Jaromír" name="Kudlík" party="ANO2011" vote="AYE" order_a="10"/>
+  <Deputy id="11" election_period="3" card="8" title="MUDr." first_name="Pavol" name="Lambert" party="ANO2011" vote="AYE" order_a="11"/>
+  <Deputy id="12" election_period="3" card="11" title="" first_name="Josef" name="Novosad" party="KSČM" vote="AYE" order_a="12"/>
+  <Deputy id="13" election_period="3" card="17" title="JUDr." first_name="Stanislav" name="Pavelec" party="TOP09" vote="AYE" order_a="13"/>
+  <Deputy id="14" election_period="3" card="12" title="RNDr." first_name="Karel" name="Pavelka" party="KOV" vote="AYE" order_a="14"/>
+  <Deputy id="15" election_period="3" card="16" title="Ing." first_name="Tomáš" name="Pifka" party="STANV" vote="AYE" order_a="15"/>
+  <Deputy id="16" election_period="3" card="20" title="Ing. Ph.D." first_name="Libor" name="Podešva" party="KDU-ČSL" vote="AYE" order_a="16"/>
+  <Deputy id="17" election_period="3" card="15" title="Mgr. " first_name="Dalibor" name="Sedláček" party="ČSSD" vote="AYE" order_a="17"/>
+  <Deputy id="18" election_period="3" card="18" title="Bc." first_name="Iveta" name="Táborská" party="ODS" vote="AYE" order_a="18"/>
+  <Deputy id="19" election_period="3" card="21" title="MUDr." first_name="Róbert" name="Teleky" party="KDU-ČSL" vote="AYE" order_a="19"/>
+  <Deputy id="20" election_period="3" card="14" title="Mgr." first_name="Taťána" name="Valentová Nersesjan" party="ČSSD" vote="AYE" order_a="20"/>
+  <Deputy id="21" election_period="3" card="19" title="" first_name="Zdeněk" name="Vejpustek" party="KSČM" vote="AYE" order_a="21"/>
+ </VotingResult>
+ <VotingResult number="19" time="08.12.2014 18:52:02" deputies="21" present="21" missing="0" aye="20" no="0" abstained="1" not_voting="0" quorum="1/2A" category="8" category_label="Usnesení" is_procedural="No" is_secret="No" is_first="No" is_last="No" location="0019.xml">
+  <Topic number="8.2 " file="">Volba předsedy finančního výboru, ZMV volí v souladu s § 84, odst. 2, písm. m) a § 117, zákona č. 128/2000 Sb., o obcích ve znění pozdějších předpisů na volební období 2014 - 2018 pana/paní ................................... do funkce předsedy finančního výboru.</Topic>
+  <Comment>BcA Berg</Comment>
+  <Deputy id="1" election_period="3" card="2" title="MUDr." first_name="Daniel" name="Bělov" party="KDU-ČSL" vote="AYE" order_a="1"/>
+  <Deputy id="2" election_period="3" card="1" title="BcA." first_name="Michal" name="Berg" party="KOV" vote="AYE" order_a="2"/>
+  <Deputy id="3" election_period="3" card="4" title="" first_name="Jiří" name="Čunek" party="KDU-ČSL" vote="AYE" order_a="3"/>
+  <Deputy id="4" election_period="3" card="3" title="Mgr." first_name="Simona" name="Hlaváčová" party="KDU-ČSL" vote="AYE" order_a="4"/>
+  <Deputy id="5" election_period="3" card="5" title="Ing." first_name="Bohumila" name="Holeňová" party="KDU-ČSL" vote="AYE" order_a="5"/>
+  <Deputy id="6" election_period="3" card="6" title="MUDr. " first_name="Tomáš" name="Husa" party="KOV" vote="AYE" order_a="6"/>
+  <Deputy id="7" election_period="3" card="10" title="Bc." first_name="Roman" name="Kalabus" party="ODS" vote="AYE" order_a="7"/>
+  <Deputy id="8" election_period="3" card="7" title="Bc." first_name="Jiří" name="Kašpar" party="ANO2011" vote="AYE" order_a="8"/>
+  <Deputy id="9" election_period="3" card="13" title="Mgr." first_name="Petr" name="Kořenek" party="ČSSD" vote="AYE" order_a="9"/>
+  <Deputy id="10" election_period="3" card="9" title="Ing." first_name="Jaromír" name="Kudlík" party="ANO2011" vote="AYE" order_a="10"/>
+  <Deputy id="11" election_period="3" card="8" title="MUDr." first_name="Pavol" name="Lambert" party="ANO2011" vote="AYE" order_a="11"/>
+  <Deputy id="12" election_period="3" card="11" title="" first_name="Josef" name="Novosad" party="KSČM" vote="AYE" order_a="12"/>
+  <Deputy id="13" election_period="3" card="17" title="JUDr." first_name="Stanislav" name="Pavelec" party="TOP09" vote="ABSTAINED" order_a="13"/>
+  <Deputy id="14" election_period="3" card="12" title="RNDr." first_name="Karel" name="Pavelka" party="KOV" vote="AYE" order_a="14"/>
+  <Deputy id="15" election_period="3" card="16" title="Ing." first_name="Tomáš" name="Pifka" party="STANV" vote="AYE" order_a="15"/>
+  <Deputy id="16" election_period="3" card="20" title="Ing. Ph.D." first_name="Libor" name="Podešva" party="KDU-ČSL" vote="AYE" order_a="16"/>
+  <Deputy id="17" election_period="3" card="15" title="Mgr. " first_name="Dalibor" name="Sedláček" party="ČSSD" vote="AYE" order_a="17"/>
+  <Deputy id="18" election_period="3" card="18" title="Bc." first_name="Iveta" name="Táborská" party="ODS" vote="AYE" order_a="18"/>
+  <Deputy id="19" election_period="3" card="21" title="MUDr." first_name="Róbert" name="Teleky" party="KDU-ČSL" vote="AYE" order_a="19"/>
+  <Deputy id="20" election_period="3" card="14" title="Mgr." first_name="Taťána" name="Valentová Nersesjan" party="ČSSD" vote="AYE" order_a="20"/>
+  <Deputy id="21" election_period="3" card="19" title="" first_name="Zdeněk" name="Vejpustek" party="KSČM" vote="AYE" order_a="21"/>
+ </VotingResult>
+ <VotingResult number="20" time="08.12.2014 18:54:38" deputies="21" present="21" missing="0" aye="20" no="0" abstained="1" not_voting="0" quorum="1/2A" category="8" category_label="Usnesení" is_procedural="No" is_secret="No" is_first="No" is_last="No" location="0020.xml">
+  <Topic number="8.3 " file="">Volba členů finančního výboru, ZMV volí v souladu s § 84, odst. 2, písm. m) a § 117, zákona č. 128/2000 Sb., o obcích ve znění pozdějších předpisů na volební období 2014 - 2018 do funkce člena finančního výboru: - pana/paní ...- pana/paní ...- pana/paní ...- pana/paní ...</Topic>
+  <Comment>Valentová, Lamber, Táborská, Podešva</Comment>
+  <Deputy id="1" election_period="3" card="2" title="MUDr." first_name="Daniel" name="Bělov" party="KDU-ČSL" vote="AYE" order_a="1"/>
+  <Deputy id="2" election_period="3" card="1" title="BcA." first_name="Michal" name="Berg" party="KOV" vote="AYE" order_a="2"/>
+  <Deputy id="3" election_period="3" card="4" title="" first_name="Jiří" name="Čunek" party="KDU-ČSL" vote="AYE" order_a="3"/>
+  <Deputy id="4" election_period="3" card="3" title="Mgr." first_name="Simona" name="Hlaváčová" party="KDU-ČSL" vote="AYE" order_a="4"/>
+  <Deputy id="5" election_period="3" card="5" title="Ing." first_name="Bohumila" name="Holeňová" party="KDU-ČSL" vote="AYE" order_a="5"/>
+  <Deputy id="6" election_period="3" card="6" title="MUDr. " first_name="Tomáš" name="Husa" party="KOV" vote="AYE" order_a="6"/>
+  <Deputy id="7" election_period="3" card="10" title="Bc." first_name="Roman" name="Kalabus" party="ODS" vote="AYE" order_a="7"/>
+  <Deputy id="8" election_period="3" card="7" title="Bc." first_name="Jiří" name="Kašpar" party="ANO2011" vote="AYE" order_a="8"/>
+  <Deputy id="9" election_period="3" card="13" title="Mgr." first_name="Petr" name="Kořenek" party="ČSSD" vote="AYE" order_a="9"/>
+  <Deputy id="10" election_period="3" card="9" title="Ing." first_name="Jaromír" name="Kudlík" party="ANO2011" vote="ABSTAINED" order_a="10"/>
+  <Deputy id="11" election_period="3" card="8" title="MUDr." first_name="Pavol" name="Lambert" party="ANO2011" vote="AYE" order_a="11"/>
+  <Deputy id="12" election_period="3" card="11" title="" first_name="Josef" name="Novosad" party="KSČM" vote="AYE" order_a="12"/>
+  <Deputy id="13" election_period="3" card="17" title="JUDr." first_name="Stanislav" name="Pavelec" party="TOP09" vote="AYE" order_a="13"/>
+  <Deputy id="14" election_period="3" card="12" title="RNDr." first_name="Karel" name="Pavelka" party="KOV" vote="AYE" order_a="14"/>
+  <Deputy id="15" election_period="3" card="16" title="Ing." first_name="Tomáš" name="Pifka" party="STANV" vote="AYE" order_a="15"/>
+  <Deputy id="16" election_period="3" card="20" title="Ing. Ph.D." first_name="Libor" name="Podešva" party="KDU-ČSL" vote="AYE" order_a="16"/>
+  <Deputy id="17" election_period="3" card="15" title="Mgr. " first_name="Dalibor" name="Sedláček" party="ČSSD" vote="AYE" order_a="17"/>
+  <Deputy id="18" election_period="3" card="18" title="Bc." first_name="Iveta" name="Táborská" party="ODS" vote="AYE" order_a="18"/>
+  <Deputy id="19" election_period="3" card="21" title="MUDr." first_name="Róbert" name="Teleky" party="KDU-ČSL" vote="AYE" order_a="19"/>
+  <Deputy id="20" election_period="3" card="14" title="Mgr." first_name="Taťána" name="Valentová Nersesjan" party="ČSSD" vote="AYE" order_a="20"/>
+  <Deputy id="21" election_period="3" card="19" title="" first_name="Zdeněk" name="Vejpustek" party="KSČM" vote="AYE" order_a="21"/>
+ </VotingResult>
+ <VotingResult number="21" time="08.12.2014 18:55:11" deputies="21" present="21" missing="0" aye="20" no="0" abstained="1" not_voting="0" quorum="1/2A" category="8" category_label="Usnesení" is_procedural="No" is_secret="No" is_first="No" is_last="No" location="0021.xml">
+  <Topic number="8.3 " file="">Volba členů finančního výboru, ZMV volí v souladu s § 84, odst. 2, písm. m) a § 117, zákona č. 128/2000 Sb., o obcích ve znění pozdějších předpisů na volební období 2014 - 2018 do funkce člena finančního výboru: - pana/paní ...- pana/paní ...- pana/paní ...- pana/paní ...</Topic>
+  <Comment>Valentová, Lamber, Táborská, Podešva</Comment>
+  <Deputy id="1" election_period="3" card="2" title="MUDr." first_name="Daniel" name="Bělov" party="KDU-ČSL" vote="AYE" order_a="1"/>
+  <Deputy id="2" election_period="3" card="1" title="BcA." first_name="Michal" name="Berg" party="KOV" vote="AYE" order_a="2"/>
+  <Deputy id="3" election_period="3" card="4" title="" first_name="Jiří" name="Čunek" party="KDU-ČSL" vote="AYE" order_a="3"/>
+  <Deputy id="4" election_period="3" card="3" title="Mgr." first_name="Simona" name="Hlaváčová" party="KDU-ČSL" vote="AYE" order_a="4"/>
+  <Deputy id="5" election_period="3" card="5" title="Ing." first_name="Bohumila" name="Holeňová" party="KDU-ČSL" vote="AYE" order_a="5"/>
+  <Deputy id="6" election_period="3" card="6" title="MUDr. " first_name="Tomáš" name="Husa" party="KOV" vote="AYE" order_a="6"/>
+  <Deputy id="7" election_period="3" card="10" title="Bc." first_name="Roman" name="Kalabus" party="ODS" vote="AYE" order_a="7"/>
+  <Deputy id="8" election_period="3" card="7" title="Bc." first_name="Jiří" name="Kašpar" party="ANO2011" vote="AYE" order_a="8"/>
+  <Deputy id="9" election_period="3" card="13" title="Mgr." first_name="Petr" name="Kořenek" party="ČSSD" vote="AYE" order_a="9"/>
+  <Deputy id="10" election_period="3" card="9" title="Ing." first_name="Jaromír" name="Kudlík" party="ANO2011" vote="AYE" order_a="10"/>
+  <Deputy id="11" election_period="3" card="8" title="MUDr." first_name="Pavol" name="Lambert" party="ANO2011" vote="ABSTAINED" order_a="11"/>
+  <Deputy id="12" election_period="3" card="11" title="" first_name="Josef" name="Novosad" party="KSČM" vote="AYE" order_a="12"/>
+  <Deputy id="13" election_period="3" card="17" title="JUDr." first_name="Stanislav" name="Pavelec" party="TOP09" vote="AYE" order_a="13"/>
+  <Deputy id="14" election_period="3" card="12" title="RNDr." first_name="Karel" name="Pavelka" party="KOV" vote="AYE" order_a="14"/>
+  <Deputy id="15" election_period="3" card="16" title="Ing." first_name="Tomáš" name="Pifka" party="STANV" vote="AYE" order_a="15"/>
+  <Deputy id="16" election_period="3" card="20" title="Ing. Ph.D." first_name="Libor" name="Podešva" party="KDU-ČSL" vote="AYE" order_a="16"/>
+  <Deputy id="17" election_period="3" card="15" title="Mgr. " first_name="Dalibor" name="Sedláček" party="ČSSD" vote="AYE" order_a="17"/>
+  <Deputy id="18" election_period="3" card="18" title="Bc." first_name="Iveta" name="Táborská" party="ODS" vote="AYE" order_a="18"/>
+  <Deputy id="19" election_period="3" card="21" title="MUDr." first_name="Róbert" name="Teleky" party="KDU-ČSL" vote="AYE" order_a="19"/>
+  <Deputy id="20" election_period="3" card="14" title="Mgr." first_name="Taťána" name="Valentová Nersesjan" party="ČSSD" vote="AYE" order_a="20"/>
+  <Deputy id="21" election_period="3" card="19" title="" first_name="Zdeněk" name="Vejpustek" party="KSČM" vote="AYE" order_a="21"/>
+ </VotingResult>
+ <VotingResult number="22" time="08.12.2014 18:56:29" deputies="21" present="21" missing="0" aye="9" no="3" abstained="9" not_voting="0" quorum="1/2A" category="8" category_label="Usnesení" is_procedural="No" is_secret="No" is_first="No" is_last="No" location="0022.xml">
+  <Topic number="8.4 " file="">Volba předsedy kontrolního výboru, ZMV volí v souladu s § 84, odst. 2, písm. m) a § 117, zákona č. 128/2000 Sb., o obcích ve znění pozdějších předpisů na volební období 2014 - 2018 pana/paní ................................... do funkce předsedy kontrolního výboru.</Topic>
+  <Comment>Sedláček</Comment>
+  <Deputy id="1" election_period="3" card="2" title="MUDr." first_name="Daniel" name="Bělov" party="KDU-ČSL" vote="ABSTAINED" order_a="1"/>
+  <Deputy id="2" election_period="3" card="1" title="BcA." first_name="Michal" name="Berg" party="KOV" vote="AYE" order_a="2"/>
+  <Deputy id="3" election_period="3" card="4" title="" first_name="Jiří" name="Čunek" party="KDU-ČSL" vote="ABSTAINED" order_a="3"/>
+  <Deputy id="4" election_period="3" card="3" title="Mgr." first_name="Simona" name="Hlaváčová" party="KDU-ČSL" vote="NO" order_a="4"/>
+  <Deputy id="5" election_period="3" card="5" title="Ing." first_name="Bohumila" name="Holeňová" party="KDU-ČSL" vote="NO" order_a="5"/>
+  <Deputy id="6" election_period="3" card="6" title="MUDr. " first_name="Tomáš" name="Husa" party="KOV" vote="AYE" order_a="6"/>
+  <Deputy id="7" election_period="3" card="10" title="Bc." first_name="Roman" name="Kalabus" party="ODS" vote="AYE" order_a="7"/>
+  <Deputy id="8" election_period="3" card="7" title="Bc." first_name="Jiří" name="Kašpar" party="ANO2011" vote="ABSTAINED" order_a="8"/>
+  <Deputy id="9" election_period="3" card="13" title="Mgr." first_name="Petr" name="Kořenek" party="ČSSD" vote="AYE" order_a="9"/>
+  <Deputy id="10" election_period="3" card="9" title="Ing." first_name="Jaromír" name="Kudlík" party="ANO2011" vote="NO" order_a="10"/>
+  <Deputy id="11" election_period="3" card="8" title="MUDr." first_name="Pavol" name="Lambert" party="ANO2011" vote="AYE" order_a="11"/>
+  <Deputy id="12" election_period="3" card="11" title="" first_name="Josef" name="Novosad" party="KSČM" vote="ABSTAINED" order_a="12"/>
+  <Deputy id="13" election_period="3" card="17" title="JUDr." first_name="Stanislav" name="Pavelec" party="TOP09" vote="AYE" order_a="13"/>
+  <Deputy id="14" election_period="3" card="12" title="RNDr." first_name="Karel" name="Pavelka" party="KOV" vote="ABSTAINED" order_a="14"/>
+  <Deputy id="15" election_period="3" card="16" title="Ing." first_name="Tomáš" name="Pifka" party="STANV" vote="ABSTAINED" order_a="15"/>
+  <Deputy id="16" election_period="3" card="20" title="Ing. Ph.D." first_name="Libor" name="Podešva" party="KDU-ČSL" vote="ABSTAINED" order_a="16"/>
+  <Deputy id="17" election_period="3" card="15" title="Mgr. " first_name="Dalibor" name="Sedláček" party="ČSSD" vote="AYE" order_a="17"/>
+  <Deputy id="18" election_period="3" card="18" title="Bc." first_name="Iveta" name="Táborská" party="ODS" vote="AYE" order_a="18"/>
+  <Deputy id="19" election_period="3" card="21" title="MUDr." first_name="Róbert" name="Teleky" party="KDU-ČSL" vote="ABSTAINED" order_a="19"/>
+  <Deputy id="20" election_period="3" card="14" title="Mgr." first_name="Taťána" name="Valentová Nersesjan" party="ČSSD" vote="AYE" order_a="20"/>
+  <Deputy id="21" election_period="3" card="19" title="" first_name="Zdeněk" name="Vejpustek" party="KSČM" vote="ABSTAINED" order_a="21"/>
+ </VotingResult>
+ <VotingResult number="23" time="08.12.2014 18:56:53" deputies="21" present="21" missing="0" aye="14" no="0" abstained="6" not_voting="1" quorum="1/2A" category="8" category_label="Usnesení" is_procedural="No" is_secret="No" is_first="No" is_last="No" location="0023.xml">
+  <Topic number="8.4 " file="">Volba předsedy kontrolního výboru, ZMV volí v souladu s § 84, odst. 2, písm. m) a § 117, zákona č. 128/2000 Sb., o obcích ve znění pozdějších předpisů na volební období 2014 - 2018 pana/paní ................................... do funkce předsedy kontrolního výboru.</Topic>
+  <Comment>Vejpustek</Comment>
+  <Deputy id="1" election_period="3" card="2" title="MUDr." first_name="Daniel" name="Bělov" party="KDU-ČSL" vote="AYE" order_a="1"/>
+  <Deputy id="2" election_period="3" card="1" title="BcA." first_name="Michal" name="Berg" party="KOV" vote="ABSTAINED" order_a="2"/>
+  <Deputy id="3" election_period="3" card="4" title="" first_name="Jiří" name="Čunek" party="KDU-ČSL" vote="AYE" order_a="3"/>
+  <Deputy id="4" election_period="3" card="3" title="Mgr." first_name="Simona" name="Hlaváčová" party="KDU-ČSL" vote="AYE" order_a="4"/>
+  <Deputy id="5" election_period="3" card="5" title="Ing." first_name="Bohumila" name="Holeňová" party="KDU-ČSL" vote="AYE" order_a="5"/>
+  <Deputy id="6" election_period="3" card="6" title="MUDr. " first_name="Tomáš" name="Husa" party="KOV" vote="ABSTAINED" order_a="6"/>
+  <Deputy id="7" election_period="3" card="10" title="Bc." first_name="Roman" name="Kalabus" party="ODS" vote="ABSTAINED" order_a="7"/>
+  <Deputy id="8" election_period="3" card="7" title="Bc." first_name="Jiří" name="Kašpar" party="ANO2011" vote="AYE" order_a="8"/>
+  <Deputy id="9" election_period="3" card="13" title="Mgr." first_name="Petr" name="Kořenek" party="ČSSD" vote="NOT_VOTING" order_a="9"/>
+  <Deputy id="10" election_period="3" card="9" title="Ing." first_name="Jaromír" name="Kudlík" party="ANO2011" vote="AYE" order_a="10"/>
+  <Deputy id="11" election_period="3" card="8" title="MUDr." first_name="Pavol" name="Lambert" party="ANO2011" vote="AYE" order_a="11"/>
+  <Deputy id="12" election_period="3" card="11" title="" first_name="Josef" name="Novosad" party="KSČM" vote="AYE" order_a="12"/>
+  <Deputy id="13" election_period="3" card="17" title="JUDr." first_name="Stanislav" name="Pavelec" party="TOP09" vote="AYE" order_a="13"/>
+  <Deputy id="14" election_period="3" card="12" title="RNDr." first_name="Karel" name="Pavelka" party="KOV" vote="AYE" order_a="14"/>
+  <Deputy id="15" election_period="3" card="16" title="Ing." first_name="Tomáš" name="Pifka" party="STANV" vote="AYE" order_a="15"/>
+  <Deputy id="16" election_period="3" card="20" title="Ing. Ph.D." first_name="Libor" name="Podešva" party="KDU-ČSL" vote="AYE" order_a="16"/>
+  <Deputy id="17" election_period="3" card="15" title="Mgr. " first_name="Dalibor" name="Sedláček" party="ČSSD" vote="ABSTAINED" order_a="17"/>
+  <Deputy id="18" election_period="3" card="18" title="Bc." first_name="Iveta" name="Táborská" party="ODS" vote="ABSTAINED" order_a="18"/>
+  <Deputy id="19" election_period="3" card="21" title="MUDr." first_name="Róbert" name="Teleky" party="KDU-ČSL" vote="AYE" order_a="19"/>
+  <Deputy id="20" election_period="3" card="14" title="Mgr." first_name="Taťána" name="Valentová Nersesjan" party="ČSSD" vote="ABSTAINED" order_a="20"/>
+  <Deputy id="21" election_period="3" card="19" title="" first_name="Zdeněk" name="Vejpustek" party="KSČM" vote="AYE" order_a="21"/>
+ </VotingResult>
+ <VotingResult number="24" time="08.12.2014 19:07:40" deputies="21" present="21" missing="0" aye="12" no="0" abstained="9" not_voting="0" quorum="1/2A" category="8" category_label="Usnesení" is_procedural="No" is_secret="No" is_first="No" is_last="No" location="0024.xml">
+  <Topic number="8.5 " file="">Volba členů kontrolního výboru, ZMV volí v souladu s § 84, odst. 2, písm. m) a § 117, zákona č. 128/2000 Sb., o obcích ve znění pozdějších předpisů na volební období 2014 - 2018 do funkce člena kontrolního výboru: - pana/paní ...- pana/paní ...- pana/paní ...- pana/paní ...</Topic>
+  <Comment>Způsob </Comment>
+  <Deputy id="1" election_period="3" card="2" title="MUDr." first_name="Daniel" name="Bělov" party="KDU-ČSL" vote="AYE" order_a="1"/>
+  <Deputy id="2" election_period="3" card="1" title="BcA." first_name="Michal" name="Berg" party="KOV" vote="ABSTAINED" order_a="2"/>
+  <Deputy id="3" election_period="3" card="4" title="" first_name="Jiří" name="Čunek" party="KDU-ČSL" vote="AYE" order_a="3"/>
+  <Deputy id="4" election_period="3" card="3" title="Mgr." first_name="Simona" name="Hlaváčová" party="KDU-ČSL" vote="AYE" order_a="4"/>
+  <Deputy id="5" election_period="3" card="5" title="Ing." first_name="Bohumila" name="Holeňová" party="KDU-ČSL" vote="AYE" order_a="5"/>
+  <Deputy id="6" election_period="3" card="6" title="MUDr. " first_name="Tomáš" name="Husa" party="KOV" vote="ABSTAINED" order_a="6"/>
+  <Deputy id="7" election_period="3" card="10" title="Bc." first_name="Roman" name="Kalabus" party="ODS" vote="AYE" order_a="7"/>
+  <Deputy id="8" election_period="3" card="7" title="Bc." first_name="Jiří" name="Kašpar" party="ANO2011" vote="AYE" order_a="8"/>
+  <Deputy id="9" election_period="3" card="13" title="Mgr." first_name="Petr" name="Kořenek" party="ČSSD" vote="ABSTAINED" order_a="9"/>
+  <Deputy id="10" election_period="3" card="9" title="Ing." first_name="Jaromír" name="Kudlík" party="ANO2011" vote="AYE" order_a="10"/>
+  <Deputy id="11" election_period="3" card="8" title="MUDr." first_name="Pavol" name="Lambert" party="ANO2011" vote="AYE" order_a="11"/>
+  <Deputy id="12" election_period="3" card="11" title="" first_name="Josef" name="Novosad" party="KSČM" vote="ABSTAINED" order_a="12"/>
+  <Deputy id="13" election_period="3" card="17" title="JUDr." first_name="Stanislav" name="Pavelec" party="TOP09" vote="ABSTAINED" order_a="13"/>
+  <Deputy id="14" election_period="3" card="12" title="RNDr." first_name="Karel" name="Pavelka" party="KOV" vote="AYE" order_a="14"/>
+  <Deputy id="15" election_period="3" card="16" title="Ing." first_name="Tomáš" name="Pifka" party="STANV" vote="AYE" order_a="15"/>
+  <Deputy id="16" election_period="3" card="20" title="Ing. Ph.D." first_name="Libor" name="Podešva" party="KDU-ČSL" vote="AYE" order_a="16"/>
+  <Deputy id="17" election_period="3" card="15" title="Mgr. " first_name="Dalibor" name="Sedláček" party="ČSSD" vote="ABSTAINED" order_a="17"/>
+  <Deputy id="18" election_period="3" card="18" title="Bc." first_name="Iveta" name="Táborská" party="ODS" vote="ABSTAINED" order_a="18"/>
+  <Deputy id="19" election_period="3" card="21" title="MUDr." first_name="Róbert" name="Teleky" party="KDU-ČSL" vote="AYE" order_a="19"/>
+  <Deputy id="20" election_period="3" card="14" title="Mgr." first_name="Taťána" name="Valentová Nersesjan" party="ČSSD" vote="ABSTAINED" order_a="20"/>
+  <Deputy id="21" election_period="3" card="19" title="" first_name="Zdeněk" name="Vejpustek" party="KSČM" vote="ABSTAINED" order_a="21"/>
+ </VotingResult>
+ <VotingResult number="25" time="08.12.2014 19:08:06" deputies="21" present="21" missing="0" aye="19" no="0" abstained="2" not_voting="0" quorum="1/2A" category="8" category_label="Usnesení" is_procedural="No" is_secret="No" is_first="No" is_last="No" location="0025.xml">
+  <Topic number="8.5 " file="">Volba členů kontrolního výboru, ZMV volí v souladu s § 84, odst. 2, písm. m) a § 117, zákona č. 128/2000 Sb., o obcích ve znění pozdějších předpisů na volební období 2014 - 2018 do funkce člena kontrolního výboru: - pana/paní ...- pana/paní ...- pana/paní ...- pana/paní ...</Topic>
+  <Comment>Pavelka</Comment>
+  <Deputy id="1" election_period="3" card="2" title="MUDr." first_name="Daniel" name="Bělov" party="KDU-ČSL" vote="AYE" order_a="1"/>
+  <Deputy id="2" election_period="3" card="1" title="BcA." first_name="Michal" name="Berg" party="KOV" vote="AYE" order_a="2"/>
+  <Deputy id="3" election_period="3" card="4" title="" first_name="Jiří" name="Čunek" party="KDU-ČSL" vote="AYE" order_a="3"/>
+  <Deputy id="4" election_period="3" card="3" title="Mgr." first_name="Simona" name="Hlaváčová" party="KDU-ČSL" vote="AYE" order_a="4"/>
+  <Deputy id="5" election_period="3" card="5" title="Ing." first_name="Bohumila" name="Holeňová" party="KDU-ČSL" vote="AYE" order_a="5"/>
+  <Deputy id="6" election_period="3" card="6" title="MUDr. " first_name="Tomáš" name="Husa" party="KOV" vote="AYE" order_a="6"/>
+  <Deputy id="7" election_period="3" card="10" title="Bc." first_name="Roman" name="Kalabus" party="ODS" vote="AYE" order_a="7"/>
+  <Deputy id="8" election_period="3" card="7" title="Bc." first_name="Jiří" name="Kašpar" party="ANO2011" vote="AYE" order_a="8"/>
+  <Deputy id="9" election_period="3" card="13" title="Mgr." first_name="Petr" name="Kořenek" party="ČSSD" vote="ABSTAINED" order_a="9"/>
+  <Deputy id="10" election_period="3" card="9" title="Ing." first_name="Jaromír" name="Kudlík" party="ANO2011" vote="AYE" order_a="10"/>
+  <Deputy id="11" election_period="3" card="8" title="MUDr." first_name="Pavol" name="Lambert" party="ANO2011" vote="AYE" order_a="11"/>
+  <Deputy id="12" election_period="3" card="11" title="" first_name="Josef" name="Novosad" party="KSČM" vote="AYE" order_a="12"/>
+  <Deputy id="13" election_period="3" card="17" title="JUDr." first_name="Stanislav" name="Pavelec" party="TOP09" vote="AYE" order_a="13"/>
+  <Deputy id="14" election_period="3" card="12" title="RNDr." first_name="Karel" name="Pavelka" party="KOV" vote="ABSTAINED" order_a="14"/>
+  <Deputy id="15" election_period="3" card="16" title="Ing." first_name="Tomáš" name="Pifka" party="STANV" vote="AYE" order_a="15"/>
+  <Deputy id="16" election_period="3" card="20" title="Ing. Ph.D." first_name="Libor" name="Podešva" party="KDU-ČSL" vote="AYE" order_a="16"/>
+  <Deputy id="17" election_period="3" card="15" title="Mgr. " first_name="Dalibor" name="Sedláček" party="ČSSD" vote="AYE" order_a="17"/>
+  <Deputy id="18" election_period="3" card="18" title="Bc." first_name="Iveta" name="Táborská" party="ODS" vote="AYE" order_a="18"/>
+  <Deputy id="19" election_period="3" card="21" title="MUDr." first_name="Róbert" name="Teleky" party="KDU-ČSL" vote="AYE" order_a="19"/>
+  <Deputy id="20" election_period="3" card="14" title="Mgr." first_name="Taťána" name="Valentová Nersesjan" party="ČSSD" vote="AYE" order_a="20"/>
+  <Deputy id="21" election_period="3" card="19" title="" first_name="Zdeněk" name="Vejpustek" party="KSČM" vote="AYE" order_a="21"/>
+ </VotingResult>
+ <VotingResult number="26" time="08.12.2014 19:08:33" deputies="21" present="21" missing="0" aye="20" no="0" abstained="1" not_voting="0" quorum="1/2A" category="8" category_label="Usnesení" is_procedural="No" is_secret="No" is_first="No" is_last="No" location="0026.xml">
+  <Topic number="8.5 " file="">Volba členů kontrolního výboru, ZMV volí v souladu s § 84, odst. 2, písm. m) a § 117, zákona č. 128/2000 Sb., o obcích ve znění pozdějších předpisů na volební období 2014 - 2018 do funkce člena kontrolního výboru: - pana/paní ...- pana/paní ...- pana/paní ...- pana/paní ...</Topic>
+  <Comment>Bělov</Comment>
+  <Deputy id="1" election_period="3" card="2" title="MUDr." first_name="Daniel" name="Bělov" party="KDU-ČSL" vote="ABSTAINED" order_a="1"/>
+  <Deputy id="2" election_period="3" card="1" title="BcA." first_name="Michal" name="Berg" party="KOV" vote="AYE" order_a="2"/>
+  <Deputy id="3" election_period="3" card="4" title="" first_name="Jiří" name="Čunek" party="KDU-ČSL" vote="AYE" order_a="3"/>
+  <Deputy id="4" election_period="3" card="3" title="Mgr." first_name="Simona" name="Hlaváčová" party="KDU-ČSL" vote="AYE" order_a="4"/>
+  <Deputy id="5" election_period="3" card="5" title="Ing." first_name="Bohumila" name="Holeňová" party="KDU-ČSL" vote="AYE" order_a="5"/>
+  <Deputy id="6" election_period="3" card="6" title="MUDr. " first_name="Tomáš" name="Husa" party="KOV" vote="AYE" order_a="6"/>
+  <Deputy id="7" election_period="3" card="10" title="Bc." first_name="Roman" name="Kalabus" party="ODS" vote="AYE" order_a="7"/>
+  <Deputy id="8" election_period="3" card="7" title="Bc." first_name="Jiří" name="Kašpar" party="ANO2011" vote="AYE" order_a="8"/>
+  <Deputy id="9" election_period="3" card="13" title="Mgr." first_name="Petr" name="Kořenek" party="ČSSD" vote="AYE" order_a="9"/>
+  <Deputy id="10" election_period="3" card="9" title="Ing." first_name="Jaromír" name="Kudlík" party="ANO2011" vote="AYE" order_a="10"/>
+  <Deputy id="11" election_period="3" card="8" title="MUDr." first_name="Pavol" name="Lambert" party="ANO2011" vote="AYE" order_a="11"/>
+  <Deputy id="12" election_period="3" card="11" title="" first_name="Josef" name="Novosad" party="KSČM" vote="AYE" order_a="12"/>
+  <Deputy id="13" election_period="3" card="17" title="JUDr." first_name="Stanislav" name="Pavelec" party="TOP09" vote="AYE" order_a="13"/>
+  <Deputy id="14" election_period="3" card="12" title="RNDr." first_name="Karel" name="Pavelka" party="KOV" vote="AYE" order_a="14"/>
+  <Deputy id="15" election_period="3" card="16" title="Ing." first_name="Tomáš" name="Pifka" party="STANV" vote="AYE" order_a="15"/>
+  <Deputy id="16" election_period="3" card="20" title="Ing. Ph.D." first_name="Libor" name="Podešva" party="KDU-ČSL" vote="AYE" order_a="16"/>
+  <Deputy id="17" election_period="3" card="15" title="Mgr. " first_name="Dalibor" name="Sedláček" party="ČSSD" vote="AYE" order_a="17"/>
+  <Deputy id="18" election_period="3" card="18" title="Bc." first_name="Iveta" name="Táborská" party="ODS" vote="AYE" order_a="18"/>
+  <Deputy id="19" election_period="3" card="21" title="MUDr." first_name="Róbert" name="Teleky" party="KDU-ČSL" vote="AYE" order_a="19"/>
+  <Deputy id="20" election_period="3" card="14" title="Mgr." first_name="Taťána" name="Valentová Nersesjan" party="ČSSD" vote="AYE" order_a="20"/>
+  <Deputy id="21" election_period="3" card="19" title="" first_name="Zdeněk" name="Vejpustek" party="KSČM" vote="AYE" order_a="21"/>
+ </VotingResult>
+ <VotingResult number="27" time="08.12.2014 19:08:54" deputies="21" present="21" missing="0" aye="20" no="0" abstained="1" not_voting="0" quorum="1/2A" category="8" category_label="Usnesení" is_procedural="No" is_secret="No" is_first="No" is_last="No" location="0027.xml">
+  <Topic number="8.5 " file="">Volba členů kontrolního výboru, ZMV volí v souladu s § 84, odst. 2, písm. m) a § 117, zákona č. 128/2000 Sb., o obcích ve znění pozdějších předpisů na volební období 2014 - 2018 do funkce člena kontrolního výboru: - pana/paní ...- pana/paní ...- pana/paní ...- pana/paní ...</Topic>
+  <Comment>Sedláček</Comment>
+  <Deputy id="1" election_period="3" card="2" title="MUDr." first_name="Daniel" name="Bělov" party="KDU-ČSL" vote="AYE" order_a="1"/>
+  <Deputy id="2" election_period="3" card="1" title="BcA." first_name="Michal" name="Berg" party="KOV" vote="AYE" order_a="2"/>
+  <Deputy id="3" election_period="3" card="4" title="" first_name="Jiří" name="Čunek" party="KDU-ČSL" vote="AYE" order_a="3"/>
+  <Deputy id="4" election_period="3" card="3" title="Mgr." first_name="Simona" name="Hlaváčová" party="KDU-ČSL" vote="AYE" order_a="4"/>
+  <Deputy id="5" election_period="3" card="5" title="Ing." first_name="Bohumila" name="Holeňová" party="KDU-ČSL" vote="AYE" order_a="5"/>
+  <Deputy id="6" election_period="3" card="6" title="MUDr. " first_name="Tomáš" name="Husa" party="KOV" vote="AYE" order_a="6"/>
+  <Deputy id="7" election_period="3" card="10" title="Bc." first_name="Roman" name="Kalabus" party="ODS" vote="AYE" order_a="7"/>
+  <Deputy id="8" election_period="3" card="7" title="Bc." first_name="Jiří" name="Kašpar" party="ANO2011" vote="AYE" order_a="8"/>
+  <Deputy id="9" election_period="3" card="13" title="Mgr." first_name="Petr" name="Kořenek" party="ČSSD" vote="AYE" order_a="9"/>
+  <Deputy id="10" election_period="3" card="9" title="Ing." first_name="Jaromír" name="Kudlík" party="ANO2011" vote="ABSTAINED" order_a="10"/>
+  <Deputy id="11" election_period="3" card="8" title="MUDr." first_name="Pavol" name="Lambert" party="ANO2011" vote="AYE" order_a="11"/>
+  <Deputy id="12" election_period="3" card="11" title="" first_name="Josef" name="Novosad" party="KSČM" vote="AYE" order_a="12"/>
+  <Deputy id="13" election_period="3" card="17" title="JUDr." first_name="Stanislav" name="Pavelec" party="TOP09" vote="AYE" order_a="13"/>
+  <Deputy id="14" election_period="3" card="12" title="RNDr." first_name="Karel" name="Pavelka" party="KOV" vote="AYE" order_a="14"/>
+  <Deputy id="15" election_period="3" card="16" title="Ing." first_name="Tomáš" name="Pifka" party="STANV" vote="AYE" order_a="15"/>
+  <Deputy id="16" election_period="3" card="20" title="Ing. Ph.D." first_name="Libor" name="Podešva" party="KDU-ČSL" vote="AYE" order_a="16"/>
+  <Deputy id="17" election_period="3" card="15" title="Mgr. " first_name="Dalibor" name="Sedláček" party="ČSSD" vote="AYE" order_a="17"/>
+  <Deputy id="18" election_period="3" card="18" title="Bc." first_name="Iveta" name="Táborská" party="ODS" vote="AYE" order_a="18"/>
+  <Deputy id="19" election_period="3" card="21" title="MUDr." first_name="Róbert" name="Teleky" party="KDU-ČSL" vote="AYE" order_a="19"/>
+  <Deputy id="20" election_period="3" card="14" title="Mgr." first_name="Taťána" name="Valentová Nersesjan" party="ČSSD" vote="AYE" order_a="20"/>
+  <Deputy id="21" election_period="3" card="19" title="" first_name="Zdeněk" name="Vejpustek" party="KSČM" vote="AYE" order_a="21"/>
+ </VotingResult>
+ <VotingResult number="28" time="08.12.2014 19:09:17" deputies="21" present="21" missing="0" aye="18" no="0" abstained="2" not_voting="1" quorum="1/2A" category="8" category_label="Usnesení" is_procedural="No" is_secret="No" is_first="No" is_last="No" location="0028.xml">
+  <Topic number="8.5 " file="">Volba členů kontrolního výboru, ZMV volí v souladu s § 84, odst. 2, písm. m) a § 117, zákona č. 128/2000 Sb., o obcích ve znění pozdějších předpisů na volební období 2014 - 2018 do funkce člena kontrolního výboru: - pana/paní ...- pana/paní ...- pana/paní ...- pana/paní ...</Topic>
+  <Comment>Kopecký</Comment>
+  <Deputy id="1" election_period="3" card="2" title="MUDr." first_name="Daniel" name="Bělov" party="KDU-ČSL" vote="AYE" order_a="1"/>
+  <Deputy id="2" election_period="3" card="1" title="BcA." first_name="Michal" name="Berg" party="KOV" vote="AYE" order_a="2"/>
+  <Deputy id="3" election_period="3" card="4" title="" first_name="Jiří" name="Čunek" party="KDU-ČSL" vote="AYE" order_a="3"/>
+  <Deputy id="4" election_period="3" card="3" title="Mgr." first_name="Simona" name="Hlaváčová" party="KDU-ČSL" vote="AYE" order_a="4"/>
+  <Deputy id="5" election_period="3" card="5" title="Ing." first_name="Bohumila" name="Holeňová" party="KDU-ČSL" vote="AYE" order_a="5"/>
+  <Deputy id="6" election_period="3" card="6" title="MUDr. " first_name="Tomáš" name="Husa" party="KOV" vote="AYE" order_a="6"/>
+  <Deputy id="7" election_period="3" card="10" title="Bc." first_name="Roman" name="Kalabus" party="ODS" vote="ABSTAINED" order_a="7"/>
+  <Deputy id="8" election_period="3" card="7" title="Bc." first_name="Jiří" name="Kašpar" party="ANO2011" vote="AYE" order_a="8"/>
+  <Deputy id="9" election_period="3" card="13" title="Mgr." first_name="Petr" name="Kořenek" party="ČSSD" vote="NOT_VOTING" order_a="9"/>
+  <Deputy id="10" election_period="3" card="9" title="Ing." first_name="Jaromír" name="Kudlík" party="ANO2011" vote="ABSTAINED" order_a="10"/>
+  <Deputy id="11" election_period="3" card="8" title="MUDr." first_name="Pavol" name="Lambert" party="ANO2011" vote="AYE" order_a="11"/>
+  <Deputy id="12" election_period="3" card="11" title="" first_name="Josef" name="Novosad" party="KSČM" vote="AYE" order_a="12"/>
+  <Deputy id="13" election_period="3" card="17" title="JUDr." first_name="Stanislav" name="Pavelec" party="TOP09" vote="AYE" order_a="13"/>
+  <Deputy id="14" election_period="3" card="12" title="RNDr." first_name="Karel" name="Pavelka" party="KOV" vote="AYE" order_a="14"/>
+  <Deputy id="15" election_period="3" card="16" title="Ing." first_name="Tomáš" name="Pifka" party="STANV" vote="AYE" order_a="15"/>
+  <Deputy id="16" election_period="3" card="20" title="Ing. Ph.D." first_name="Libor" name="Podešva" party="KDU-ČSL" vote="AYE" order_a="16"/>
+  <Deputy id="17" election_period="3" card="15" title="Mgr. " first_name="Dalibor" name="Sedláček" party="ČSSD" vote="AYE" order_a="17"/>
+  <Deputy id="18" election_period="3" card="18" title="Bc." first_name="Iveta" name="Táborská" party="ODS" vote="AYE" order_a="18"/>
+  <Deputy id="19" election_period="3" card="21" title="MUDr." first_name="Róbert" name="Teleky" party="KDU-ČSL" vote="AYE" order_a="19"/>
+  <Deputy id="20" election_period="3" card="14" title="Mgr." first_name="Taťána" name="Valentová Nersesjan" party="ČSSD" vote="AYE" order_a="20"/>
+  <Deputy id="21" election_period="3" card="19" title="" first_name="Zdeněk" name="Vejpustek" party="KSČM" vote="AYE" order_a="21"/>
+ </VotingResult>
+ <VotingResult number="29" time="08.12.2014 19:16:20" deputies="21" present="21" missing="0" aye="21" no="0" abstained="0" not_voting="0" quorum="1/2A" category="8" category_label="Usnesení" is_procedural="No" is_secret="No" is_first="No" is_last="No" location="0029.xml">
+  <Topic number="9. " file="">Stanovení odměny za výkon funkce neuvolněným členům zastupitelstva</Topic>
+  <Comment>Upravené znění, 2 usnesení najednou</Comment>
+  <Deputy id="1" election_period="3" card="2" title="MUDr." first_name="Daniel" name="Bělov" party="KDU-ČSL" vote="AYE" order_a="1"/>
+  <Deputy id="2" election_period="3" card="1" title="BcA." first_name="Michal" name="Berg" party="KOV" vote="AYE" order_a="2"/>
+  <Deputy id="3" election_period="3" card="4" title="" first_name="Jiří" name="Čunek" party="KDU-ČSL" vote="AYE" order_a="3"/>
+  <Deputy id="4" election_period="3" card="3" title="Mgr." first_name="Simona" name="Hlaváčová" party="KDU-ČSL" vote="AYE" order_a="4"/>
+  <Deputy id="5" election_period="3" card="5" title="Ing." first_name="Bohumila" name="Holeňová" party="KDU-ČSL" vote="AYE" order_a="5"/>
+  <Deputy id="6" election_period="3" card="6" title="MUDr. " first_name="Tomáš" name="Husa" party="KOV" vote="AYE" order_a="6"/>
+  <Deputy id="7" election_period="3" card="10" title="Bc." first_name="Roman" name="Kalabus" party="ODS" vote="AYE" order_a="7"/>
+  <Deputy id="8" election_period="3" card="7" title="Bc." first_name="Jiří" name="Kašpar" party="ANO2011" vote="AYE" order_a="8"/>
+  <Deputy id="9" election_period="3" card="13" title="Mgr." first_name="Petr" name="Kořenek" party="ČSSD" vote="AYE" order_a="9"/>
+  <Deputy id="10" election_period="3" card="9" title="Ing." first_name="Jaromír" name="Kudlík" party="ANO2011" vote="AYE" order_a="10"/>
+  <Deputy id="11" election_period="3" card="8" title="MUDr." first_name="Pavol" name="Lambert" party="ANO2011" vote="AYE" order_a="11"/>
+  <Deputy id="12" election_period="3" card="11" title="" first_name="Josef" name="Novosad" party="KSČM" vote="AYE" order_a="12"/>
+  <Deputy id="13" election_period="3" card="17" title="JUDr." first_name="Stanislav" name="Pavelec" party="TOP09" vote="AYE" order_a="13"/>
+  <Deputy id="14" election_period="3" card="12" title="RNDr." first_name="Karel" name="Pavelka" party="KOV" vote="AYE" order_a="14"/>
+  <Deputy id="15" election_period="3" card="16" title="Ing." first_name="Tomáš" name="Pifka" party="STANV" vote="AYE" order_a="15"/>
+  <Deputy id="16" election_period="3" card="20" title="Ing. Ph.D." first_name="Libor" name="Podešva" party="KDU-ČSL" vote="AYE" order_a="16"/>
+  <Deputy id="17" election_period="3" card="15" title="Mgr. " first_name="Dalibor" name="Sedláček" party="ČSSD" vote="AYE" order_a="17"/>
+  <Deputy id="18" election_period="3" card="18" title="Bc." first_name="Iveta" name="Táborská" party="ODS" vote="AYE" order_a="18"/>
+  <Deputy id="19" election_period="3" card="21" title="MUDr." first_name="Róbert" name="Teleky" party="KDU-ČSL" vote="AYE" order_a="19"/>
+  <Deputy id="20" election_period="3" card="14" title="Mgr." first_name="Taťána" name="Valentová Nersesjan" party="ČSSD" vote="AYE" order_a="20"/>
+  <Deputy id="21" election_period="3" card="19" title="" first_name="Zdeněk" name="Vejpustek" party="KSČM" vote="AYE" order_a="21"/>
+ </VotingResult>
+ <VotingResult number="30" time="08.12.2014 19:17:40" deputies="21" present="21" missing="0" aye="20" no="0" abstained="1" not_voting="0" quorum="1/2A" category="8" category_label="Usnesení" is_procedural="No" is_secret="No" is_first="No" is_last="No" location="0030.xml">
+  <Topic number="10.1 " file="">Stanovení termínu 4. zasedání Zastupitelstva města Vsetín  Varianta 1.: ZMV bere na vědomí, že Rada města Vsetín určí datum příštího zasedání Zastupitelstva města Vsetín. Varianta 2.: ZMV doporučuje Radě města Vsetín stanovit termín příštího zasedání Zastupitelstva města Vsetín.  Varianta 3.: ZMV stanovuje termín příštího zasedání Zastupitelstva města Vsetín na ... </Topic>
+  <Comment>19.12.2014  15h</Comment>
+  <Deputy id="1" election_period="3" card="2" title="MUDr." first_name="Daniel" name="Bělov" party="KDU-ČSL" vote="AYE" order_a="1"/>
+  <Deputy id="2" election_period="3" card="1" title="BcA." first_name="Michal" name="Berg" party="KOV" vote="AYE" order_a="2"/>
+  <Deputy id="3" election_period="3" card="4" title="" first_name="Jiří" name="Čunek" party="KDU-ČSL" vote="AYE" order_a="3"/>
+  <Deputy id="4" election_period="3" card="3" title="Mgr." first_name="Simona" name="Hlaváčová" party="KDU-ČSL" vote="AYE" order_a="4"/>
+  <Deputy id="5" election_period="3" card="5" title="Ing." first_name="Bohumila" name="Holeňová" party="KDU-ČSL" vote="AYE" order_a="5"/>
+  <Deputy id="6" election_period="3" card="6" title="MUDr. " first_name="Tomáš" name="Husa" party="KOV" vote="AYE" order_a="6"/>
+  <Deputy id="7" election_period="3" card="10" title="Bc." first_name="Roman" name="Kalabus" party="ODS" vote="ABSTAINED" order_a="7"/>
+  <Deputy id="8" election_period="3" card="7" title="Bc." first_name="Jiří" name="Kašpar" party="ANO2011" vote="AYE" order_a="8"/>
+  <Deputy id="9" election_period="3" card="13" title="Mgr." first_name="Petr" name="Kořenek" party="ČSSD" vote="AYE" order_a="9"/>
+  <Deputy id="10" election_period="3" card="9" title="Ing." first_name="Jaromír" name="Kudlík" party="ANO2011" vote="AYE" order_a="10"/>
+  <Deputy id="11" election_period="3" card="8" title="MUDr." first_name="Pavol" name="Lambert" party="ANO2011" vote="AYE" order_a="11"/>
+  <Deputy id="12" election_period="3" card="11" title="" first_name="Josef" name="Novosad" party="KSČM" vote="AYE" order_a="12"/>
+  <Deputy id="13" election_period="3" card="17" title="JUDr." first_name="Stanislav" name="Pavelec" party="TOP09" vote="AYE" order_a="13"/>
+  <Deputy id="14" election_period="3" card="12" title="RNDr." first_name="Karel" name="Pavelka" party="KOV" vote="AYE" order_a="14"/>
+  <Deputy id="15" election_period="3" card="16" title="Ing." first_name="Tomáš" name="Pifka" party="STANV" vote="AYE" order_a="15"/>
+  <Deputy id="16" election_period="3" card="20" title="Ing. Ph.D." first_name="Libor" name="Podešva" party="KDU-ČSL" vote="AYE" order_a="16"/>
+  <Deputy id="17" election_period="3" card="15" title="Mgr. " first_name="Dalibor" name="Sedláček" party="ČSSD" vote="AYE" order_a="17"/>
+  <Deputy id="18" election_period="3" card="18" title="Bc." first_name="Iveta" name="Táborská" party="ODS" vote="AYE" order_a="18"/>
+  <Deputy id="19" election_period="3" card="21" title="MUDr." first_name="Róbert" name="Teleky" party="KDU-ČSL" vote="AYE" order_a="19"/>
+  <Deputy id="20" election_period="3" card="14" title="Mgr." first_name="Taťána" name="Valentová Nersesjan" party="ČSSD" vote="AYE" order_a="20"/>
+  <Deputy id="21" election_period="3" card="19" title="" first_name="Zdeněk" name="Vejpustek" party="KSČM" vote="AYE" order_a="21"/>
+ </VotingResult>
+ <VotingResult number="31" time="08.12.2014 19:38:28" deputies="21" present="21" missing="0" aye="21" no="0" abstained="0" not_voting="0" quorum="1/2A" category="8" category_label="Usnesení" is_procedural="No" is_secret="No" is_first="No" is_last="Yes" location="0031.xml">
+  <Topic number="11." file="">Čistá řeka Bečva II, část A, změnové listy - DODATEK</Topic>
+  <Comment></Comment>
+  <Deputy id="1" election_period="3" card="2" title="MUDr." first_name="Daniel" name="Bělov" party="KDU-ČSL" vote="AYE" order_a="1"/>
+  <Deputy id="2" election_period="3" card="1" title="BcA." first_name="Michal" name="Berg" party="KOV" vote="AYE" order_a="2"/>
+  <Deputy id="3" election_period="3" card="4" title="" first_name="Jiří" name="Čunek" party="KDU-ČSL" vote="AYE" order_a="3"/>
+  <Deputy id="4" election_period="3" card="3" title="Mgr." first_name="Simona" name="Hlaváčová" party="KDU-ČSL" vote="AYE" order_a="4"/>
+  <Deputy id="5" election_period="3" card="5" title="Ing." first_name="Bohumila" name="Holeňová" party="KDU-ČSL" vote="AYE" order_a="5"/>
+  <Deputy id="6" election_period="3" card="6" title="MUDr. " first_name="Tomáš" name="Husa" party="KOV" vote="AYE" order_a="6"/>
+  <Deputy id="7" election_period="3" card="10" title="Bc." first_name="Roman" name="Kalabus" party="ODS" vote="AYE" order_a="7"/>
+  <Deputy id="8" election_period="3" card="7" title="Bc." first_name="Jiří" name="Kašpar" party="ANO2011" vote="AYE" order_a="8"/>
+  <Deputy id="9" election_period="3" card="13" title="Mgr." first_name="Petr" name="Kořenek" party="ČSSD" vote="AYE" order_a="9"/>
+  <Deputy id="10" election_period="3" card="9" title="Ing." first_name="Jaromír" name="Kudlík" party="ANO2011" vote="AYE" order_a="10"/>
+  <Deputy id="11" election_period="3" card="8" title="MUDr." first_name="Pavol" name="Lambert" party="ANO2011" vote="AYE" order_a="11"/>
+  <Deputy id="12" election_period="3" card="11" title="" first_name="Josef" name="Novosad" party="KSČM" vote="AYE" order_a="12"/>
+  <Deputy id="13" election_period="3" card="17" title="JUDr." first_name="Stanislav" name="Pavelec" party="TOP09" vote="AYE" order_a="13"/>
+  <Deputy id="14" election_period="3" card="12" title="RNDr." first_name="Karel" name="Pavelka" party="KOV" vote="AYE" order_a="14"/>
+  <Deputy id="15" election_period="3" card="16" title="Ing." first_name="Tomáš" name="Pifka" party="STANV" vote="AYE" order_a="15"/>
+  <Deputy id="16" election_period="3" card="20" title="Ing. Ph.D." first_name="Libor" name="Podešva" party="KDU-ČSL" vote="AYE" order_a="16"/>
+  <Deputy id="17" election_period="3" card="15" title="Mgr. " first_name="Dalibor" name="Sedláček" party="ČSSD" vote="AYE" order_a="17"/>
+  <Deputy id="18" election_period="3" card="18" title="Bc." first_name="Iveta" name="Táborská" party="ODS" vote="AYE" order_a="18"/>
+  <Deputy id="19" election_period="3" card="21" title="MUDr." first_name="Róbert" name="Teleky" party="KDU-ČSL" vote="AYE" order_a="19"/>
+  <Deputy id="20" election_period="3" card="14" title="Mgr." first_name="Taťána" name="Valentová Nersesjan" party="ČSSD" vote="AYE" order_a="20"/>
+  <Deputy id="21" election_period="3" card="19" title="" first_name="Zdeněk" name="Vejpustek" party="KSČM" vote="AYE" order_a="21"/>
+ </VotingResult>
+ <Copyright author="H.E.R. Systém © A.S.Partner, s.r.o., Košice" licensee="Město Vsetín" representative="Zastoupení v ČR: BitEST Kutná Hora - www.bitest.cz"/>
+</Session>
+

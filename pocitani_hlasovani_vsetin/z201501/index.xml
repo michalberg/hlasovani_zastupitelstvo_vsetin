@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet type="text/xsl" href="xsls/her_six.xsl" ?>
+<Session number="201501" election_period="3" chairman="p. Čunek" start_date="13.02.2015" end_date="13.02.2015" number_of_votings="48">
+ <Title>5. Zasedání Zastupitelstva Města Vsetín</Title>
+ <Comment></Comment>
+ <VotingResult number="1" time="13.02.2015 15:07:50" deputies="21" present="18" missing="3" aye="18" no="0" abstained="0" not_voting="0" quorum="1/2A" category="8" category_label="Usnesení" is_procedural="No" is_secret="No" is_first="Yes" is_last="No" location="0001.xml">
+  <Topic number="1.1 " file="">Volba mandátové komise, ZMV schvaluje mandátovou a volební komisi ve složení:</Topic>
+  <Comment>p. Podešva, Pavelec</Comment>
+ </VotingResult>
+ <VotingResult number="2" time="13.02.2015 15:08:22" deputies="21" present="18" missing="3" aye="16" no="0" abstained="0" not_voting="2" quorum="1/2A" category="8" category_label="Usnesení" is_procedural="No" is_secret="No" is_first="No" is_last="No" location="0002.xml">
+  <Topic number="1.2 " file="">Volba návrhové komise ZMV schvaluje návrhovou komisi ve složení:</Topic>
+  <Comment>p. Kudlík, Husa</Comment>
+ </VotingResult>
+ <VotingResult number="3" time="13.02.2015 15:09:13" deputies="21" present="18" missing="3" aye="18" no="0" abstained="0" not_voting="0" quorum="1/2A" category="8" category_label="Usnesení" is_procedural="No" is_secret="No" is_first="No" is_last="No" location="0003.xml">
+  <Topic number="1.3 " file="">Volba ověřovatelů zápisu ZMV schvaluje ověřovatele zápisu:</Topic>
+  <Comment>p. Holeňová , Táborská</Comment>
+ </VotingResult>
+ <VotingResult number="4" time="13.02.2015 15:11:52" deputies="21" present="18" missing="3" aye="18" no="0" abstained="0" not_voting="0" quorum="1/2A" category="8" category_label="Usnesení" is_procedural="No" is_secret="No" is_first="No" is_last="No" location="0004.xml">
+  <Topic number="1.4" file="">Schválení programu zasedání zastupitelstva, ZMV schvaluje program zasedání v předloženém/upraveném znění.</Topic>
+  <Comment></Comment>
+ </VotingResult>
+ <VotingResult number="5" time="13.02.2015 15:41:16" deputies="21" present="18" missing="3" aye="18" no="0" abstained="0" not_voting="0" quorum="1/2A" category="8" category_label="Usnesení" is_procedural="No" is_secret="No" is_first="No" is_last="No" location="0005.xml">
+  <Topic number="3.  " file="">DŮVODOVÁ ZPRÁVA PRO KONTROLU PLNĚNÍ USNESENÍ PRO 5. ZM 13.02.2015 1/5/ZM/2015 DŮVODOVÁ ZPRÁVA PRO KONTROLU PLNĚNÍ USNESENÍ PRO 5. ZM 13.02.2015 ZASTUPITELSTVO MĚSTA VSETÍN BERE NA VĚDOMÍ DŮVODOVOU ZPRÁVU PRO KONTROLU PLNĚNÍ USNESENÍ PRO 5. ZASTUPITELSTVO MĚSTA VSETÍN KONANÉ DNE 13.02.2015.</Topic>
+  <Comment></Comment>
+ </VotingResult>
+ <VotingResult number="6" time="13.02.2015 15:49:29" deputies="21" present="18" missing="3" aye="18" no="0" abstained="0" not_voting="0" quorum="1/2A" category="8" category_label="Usnesení" is_procedural="No" is_secret="No" is_first="No" is_last="No" location="0006.xml">
+  <Topic number="33. " file="">ZŘÍZENÍ OSADNÍHO VÝBORU SEMETÍN 31/5/ZM/2015 ZŘÍZENÍ OSADNÍHO VÝBORU SEMETÍN 33.1 ZASTUPITELSTVO MĚSTA VSETÍN ZŘIZUJE PODLE UST. § 120 ODST. 1 ZÁKONA Č. 128/2000 SB. O OBCÍCH, VE ZNĚNÍ POZDĚJŠÍCH PŘEDPISŮ OSADNÍ VÝBOR SEMETÍN</Topic>
+  <Comment>5 usnesení najednou</Comment>
+ </VotingResult>
+ <VotingResult number="7" time="13.02.2015 15:53:28" deputies="21" present="18" missing="3" aye="18" no="0" abstained="0" not_voting="0" quorum="1/2A" category="8" category_label="Usnesení" is_procedural="No" is_secret="No" is_first="No" is_last="No" location="0007.xml">
+  <Topic number="4. " file="">URČENÝ ZASTUPITEL PRO SPOLUPRÁCI S POŘIZOVATELEM 2/5/ZM/2015 URČENÝ ZASTUPITEL PRO SPOLUPRÁCI S POŘIZOVATELEM ZASTUPITELSTVO MĚSTA VSETÍN URČUJE JIŘÍHO ČUNKA, ČLENA ZASTUPITELSTVA MĚSTA VSETÍN, ABY SPOLUPRACOVAL S POŘIZOVATELEM - ODBOREM ÚZEMNÍHO PLÁNOVÁNÍ, STAVEBNÍHO ŘÁDU A DOPRAVY MĚSTSKÉHO ÚŘADU VSETÍN, DLE ZÁKONA Č. 183/2006 SB., O ÚZEMNÍM PLÁNOVÁNÍ A STAVEBNÍM ŘÁDU (STAVEBNÍ ZÁKON), VE ZNĚNÍ POZDĚJŠÍCH PŘEDPISŮ (DÁLE JEN „STAVEBNÍ ZÁKON“): 1.</Topic>
+  <Comment></Comment>
+ </VotingResult>
+ <VotingResult number="8" time="13.02.2015 15:55:04" deputies="21" present="18" missing="3" aye="18" no="0" abstained="0" not_voting="0" quorum="1/2A" category="8" category_label="Usnesení" is_procedural="No" is_secret="No" is_first="No" is_last="No" location="0008.xml">
+  <Topic number="5. " file="">ROZPOČTOVÉ OPATŘENÍ NA ROK 2014 - Č. 14 3/5/ZM/2015 ROZPOČTOVÉ OPATŘENÍ NA ROK 2014 - Č. 14 ZASTUPITELSTVO MĚSTA VSETÍN BERE NA VĚDOMÍ PROVEDENÍ ZMĚN ROZPOČTU MĚSTA VSETÍN NA ROK 2014 FORMOU ROZPOČTOVÉHO OPATŘENÍ Č. 14 PRO KAPITOLU 03 ­ ODBOR ŠKOLSTVÍ A KULTURY A PRO KAPITOLU 10 ­ MĚSTSKÁ POLICIE PODLE PŘEDLOŽENÉ DŮVODOVÉ ZPRÁVY.</Topic>
+  <Comment></Comment>
+ </VotingResult>
+ <VotingResult number="9" time="13.02.2015 16:30:19" deputies="21" present="18" missing="3" aye="18" no="0" abstained="0" not_voting="0" quorum="1/2A" category="8" category_label="Usnesení" is_procedural="No" is_secret="No" is_first="No" is_last="No" location="0009.xml">
+  <Topic number="6. " file="">ROZPOČTOVÉ OPATŘENÍ NA ROK 2015 - Č. 1 4/5/ZM/2015 ROZPOČTOVÉ OPATŘENÍ NA ROK 2015 - Č. 1</Topic>
+  <Comment>2 usnesení</Comment>
+ </VotingResult>
+ <VotingResult number="10" time="13.02.2015 16:39:37" deputies="21" present="18" missing="3" aye="16" no="0" abstained="0" not_voting="2" quorum="1/2A" category="8" category_label="Usnesení" is_procedural="No" is_secret="No" is_first="No" is_last="No" location="0010.xml">
+  <Topic number="8.  " file="">ZRUŠENÍ USNESENÍ ZMV 6/5/ZM/2015 ZRUŠENÍ USNESENÍ ZMV ZASTUPITELSTVO MĚSTA VSETÍN ZRUŠUJE SVÉ USNESENÍ ZE DNE 8. 9. 2009 ­ BOD Z/30/33, DLE DŮVODOVÉ ZPRÁVY.</Topic>
+  <Comment></Comment>
+ </VotingResult>
+ <VotingResult number="11" time="13.02.2015 16:40:32" deputies="21" present="18" missing="3" aye="16" no="0" abstained="0" not_voting="2" quorum="1/2A" category="8" category_label="Usnesení" is_procedural="No" is_secret="No" is_first="No" is_last="No" location="0011.xml">
+  <Topic number="9. " file="">MĚNA NABYVATELŮ POZEMKŮ V PROSTORU BYTOVÝCH DOMŮ 7/5/ZM/2015 ZMĚNA NABYVATELŮ POZEMKŮ V PROSTORU BYTOVÝCH DOMŮ</Topic>
+  <Comment></Comment>
+ </VotingResult>
+ <VotingResult number="12" time="13.02.2015 16:43:14" deputies="21" present="18" missing="3" aye="17" no="0" abstained="0" not_voting="1" quorum="1/2A" category="8" category_label="Usnesení" is_procedural="No" is_secret="No" is_first="No" is_last="No" location="0012.xml">
+  <Topic number="10. " file="">ZVEŘEJNĚNÍ ZÁMĚRU PŘEVÉST POZEMKY NA ULICI ŠTĚPÁNSKÁ 8/5/ZM/2015 ZVEŘEJNĚNÍ ZÁMĚRU PŘEVÉST POZEMKY NA ULICI ŠTĚPÁNSKÁ</Topic>
+  <Comment>2. usnesení najednou</Comment>
+ </VotingResult>
+ <VotingResult number="13" time="13.02.2015 16:43:57" deputies="21" present="18" missing="3" aye="17" no="0" abstained="0" not_voting="1" quorum="1/2A" category="8" category_label="Usnesení" is_procedural="No" is_secret="No" is_first="No" is_last="No" location="0013.xml">
+  <Topic number="11. " file="">ZVEŘEJNĚNÍ ZÁMĚRU PŘEVÉST POZEMEK NA ULICI NA HLÁSENCE 9/5/ZM/2015 ZVEŘEJNĚNÍ ZÁMĚRU PŘEVÉST POZEMEK NA ULICI NA HLÁSENCE ZASTUPITELSTVO MĚSTA VSETÍN NESCHVALUJE ZVEŘEJNĚNÍ ZÁMĚRU PŘEVÉST ČÁST POZEMKU P.Č. 2767, OSTATNÍ PLOCHA, 259 M2 VYZNAČENOU V GRAFICKÉ PŘÍLOZE DŮVODOVÉ ZPRÁVY, K.Ú. VSETÍN, DLE DŮVODOVÉ ZPRÁVY.</Topic>
+  <Comment></Comment>
+ </VotingResult>
+ <VotingResult number="14" time="13.02.2015 16:44:54" deputies="21" present="18" missing="3" aye="18" no="0" abstained="0" not_voting="0" quorum="1/2A" category="8" category_label="Usnesení" is_procedural="No" is_secret="No" is_first="No" is_last="No" location="0014.xml">
+  <Topic number="12.  " file="">ZVEŘEJNĚNÍ ZÁMĚRU PŘEVÉST POZEMKY NA UL. DĚTSKÁ 10/5/ZM/2015 ZVEŘEJNĚNÍ ZÁMĚRU PŘEVÉST POZEMKY NA UL. DĚTSKÁ ZASTUPITELSTVO MĚSTA VSETÍN SCHVALUJE ZVEŘEJNĚNÍ ZÁMĚRU PŘEVÉST ČÁSTI P.Č. 6497, OSTATNÍ PLOCHA, 2.180 M2 A P.Č. 6494, OSTATNÍ PLOCHA, 205 M2, VYZNAČENÉ V GRAFICKÉ PŘÍLOZE DŮVODOVÉ ZPRÁVY, K.Ú. VSETÍN, DLE DŮVODOVÉ ZPRÁVY.</Topic>
+  <Comment></Comment>
+ </VotingResult>
+ <VotingResult number="15" time="13.02.2015 16:46:28" deputies="21" present="18" missing="3" aye="18" no="0" abstained="0" not_voting="0" quorum="1/2A" category="8" category_label="Usnesení" is_procedural="No" is_secret="No" is_first="No" is_last="No" location="0015.xml">
+  <Topic number="13.  " file="">ZVEŘEJNĚNÍ ZÁMĚRU PŘEVÉST POZEMKY POD STAVBAMI 11/5/ZM/2015 ZVEŘEJNĚNÍ ZÁMĚRU PŘEVÉST POZEMKY POD STAVBAMI</Topic>
+  <Comment>5 usnesení najednou</Comment>
+ </VotingResult>
+ <VotingResult number="16" time="13.02.2015 16:47:29" deputies="21" present="18" missing="3" aye="18" no="0" abstained="0" not_voting="0" quorum="1/2A" category="8" category_label="Usnesení" is_procedural="No" is_secret="No" is_first="No" is_last="No" location="0016.xml">
+  <Topic number="14.  " file="">ZVEŘEJNĚNÍ ZÁMĚRU PŘEVÉST POZEMEK V SEMETÍNĚ 12/5/ZM/2015 ZVEŘEJNĚNÍ ZÁMĚRU PŘEVÉST POZEMEK V SEMETÍNĚ ZASTUPITELSTVO MĚSTA VSETÍN SCHVALUJE ZVEŘEJNĚNÍ ZÁMĚRU PŘEVÉST ČÁSTI P.Č. 13096, OSTATNÍ PLOCHA, 1.230 M2 A P.Č. 13111, ORNÁ PŮDA, 26.161 M2, VYZNAČENÉ V GRAFICKÉ PŘÍLOZE DŮVODOVÉ ZPRÁVY, K.Ú. VSETÍN, DLE DŮVODOVÉ ZPRÁVY.</Topic>
+  <Comment></Comment>
+ </VotingResult>
+ <VotingResult number="17" time="13.02.2015 16:50:28" deputies="21" present="18" missing="3" aye="17" no="0" abstained="1" not_voting="0" quorum="1/2A" category="8" category_label="Usnesení" is_procedural="No" is_secret="No" is_first="No" is_last="No" location="0017.xml">
+  <Topic number="15. " file="">ZVEŘEJNĚNÍ ZÁMĚRU PŘEVÉST POZEMEK U RŮŽIČKŮ 13/5/ZM/2015 ZVEŘEJNĚNÍ ZÁMĚRU PŘEVÉST POZEMEK U RŮŽIČKŮ ZASTUPITELSTVO MĚSTA VSETÍN  SCHVALUJE ZVEŘEJNĚNÍ ZÁMĚRU PŘEVÉST POZEMEK P.Č. 6378, OSTATNÍ PLOCHA, 224 M2, K.Ú. VSETÍN, DLE DŮVODOVÉ ZPRÁVY.</Topic>
+  <Comment></Comment>
+ </VotingResult>
+ <VotingResult number="18" time="13.02.2015 16:51:09" deputies="21" present="18" missing="3" aye="18" no="0" abstained="0" not_voting="0" quorum="1/2A" category="8" category_label="Usnesení" is_procedural="No" is_secret="No" is_first="No" is_last="No" location="0018.xml">
+  <Topic number="16.  " file="">ZVEŘEJNĚNÍ ZÁMĚRU PŘEVÉST POZEMEK V POTŮČKÁCH 14/5/ZM/2015 ZVEŘEJNĚNÍ ZÁMĚRU PŘEVÉST POZEMEK V POTŮČKÁCH ZASTUPITELSTVO MĚSTA VSETÍN SCHVALUJE ZVEŘEJNĚNÍ ZÁMĚRU PŘEVÉST ČÁST POZEMKU P.Č. 2009, OSTATNÍ PLOCHA, 1.022 M2, VYZNAČENOU V GRAFICKÉ PŘÍLOZE DŮVODOVÉ ZPRÁVY, K.Ú. ROKYTNICE U VSETÍNA, DLE DŮVODOVÉ ZPRÁVY.</Topic>
+  <Comment></Comment>
+ </VotingResult>
+ <VotingResult number="19" time="13.02.2015 16:52:03" deputies="21" present="18" missing="3" aye="18" no="0" abstained="0" not_voting="0" quorum="1/2A" category="8" category_label="Usnesení" is_procedural="No" is_secret="No" is_first="No" is_last="No" location="0019.xml">
+  <Topic number="17.  " file="">ZVEŘEJNĚNÍ ZÁMĚRU PŘEVÉST POZEMEK NA ULICI 4. KVĚTNA 15/5/ZM/2015 ZVEŘEJNĚNÍ ZÁMĚRU PŘEVÉST POZEMEK NA ULICI 4. KVĚTNA ZASTUPITELSTVO MĚSTA VSETÍN SCHVALUJE ZVEŘEJNĚNÍ ZÁMĚRU PŘEVÉST ČÁST POZEMKU P.Č. 1853, OSTATNÍ PLOCHA, 20 M2, K.Ú. VSETÍN, VYZNAČENOU V GRAFICKÉ PŘÍLOZE DŮVODOVÉ ZPRÁVY, DLE DŮVODOVÉ ZPRÁVY.</Topic>
+  <Comment></Comment>
+ </VotingResult>
+ <VotingResult number="20" time="13.02.2015 16:53:22" deputies="21" present="18" missing="3" aye="18" no="0" abstained="0" not_voting="0" quorum="1/2A" category="8" category_label="Usnesení" is_procedural="No" is_secret="No" is_first="No" is_last="No" location="0020.xml">
+  <Topic number="18.  " file="">ZVEŘEJNĚNÍ ZÁMĚRU PŘEVÉST POZEMKY NA ULICI PŘÍKRÁ 16/5/ZM/2015 ZVEŘEJNĚNÍ ZÁMĚRU PŘEVÉST POZEMKY NA ULICI PŘÍKRÁ ZASTUPITELSTVO MĚSTA VSETÍN NESCHVALUJE ZVEŘEJNĚNÍ ZÁMĚRU ODPRODAT CELÝ POZEMEK P.Č. 342, OSTATNÍ PLOCHA, 52 M2 A ČÁSTI P.Č. 343 ­ 197 M2, P.Č. 344 ­ 142 M2 A P.Č. 350 ­ 252 M2, VŠE OSTATNÍ PLOCHY, VYZNAČENÉ V GRAFICKÉ PŘÍLOZE DŮVODOVÉ ZPRÁVY, VŠE K.Ú. VSETÍN, DLE DŮVODOVÉ ZPRÁVY.</Topic>
+  <Comment></Comment>
+ </VotingResult>
+ <VotingResult number="21" time="13.02.2015 16:56:38" deputies="21" present="18" missing="3" aye="3" no="9" abstained="6" not_voting="0" quorum="1/2A" category="8" category_label="Usnesení" is_procedural="No" is_secret="No" is_first="No" is_last="No" location="0021.xml">
+  <Topic number="19. " file="">NABYTÍ KOMUNIKACE PRO PŘIPRAVOVANOU VÝSTAVBU RD V LOKALITĚ LUH-KORELKA 17/5/ZM/2015 NABYTÍ KOMUNIKACE PRO PŘIPRAVOVANOU VÝSTAVBU RD V LOKALITĚ LUH-KORELKA ZASTUPITELSTVO MĚSTA VSETÍN SCHVALUJE NABYTÍ KONSTRUKCE KOMUNIKACE, JEJÍŽ ROZSAH JE STANOVEN KOLAUDAČNÍM SOUHLASEM Č.J. MUVS-S 8280/2014/OÚPSŘ-280/13-4SUŠ ZE DNE 24. 9. 2014, VČETNĚ VEŘEJNÉHO OSVĚTLENÍ, JEHOŽ ROZSAH JE DÁN KOLAUDAČNÍM SOUHLASEM Č.J. MUVS-S8575/2014/OÚPSŘ-330/BR-6 ZE DNE 18. 9. 2014 A VČETNĚ POZEMKŮ P.Č. 5375/4, OSTATNÍ PLOCHA, 528 M2, P.Č. 5379/5, OSTATNÍ PLOCHA, 1.558 M2, P.Č. 5508, OSTATNÍ PLOCHA, 7 M2 A ČÁSTI P.Č. 5496, VODNÍ PLOCHA, 225 M2, NA NÍŽ SE TATO KOMUNIKACE NACHÁZÍ OD ŽADATELŮ DO VLASTNICTVÍ MĚSTA VSETÍN ZA KUPNÍ CENU 1,- KČ CELKEM, DLE DŮVODOVÉ ZPRÁVY.</Topic>
+  <Comment></Comment>
+ </VotingResult>
+ <VotingResult number="22" time="13.02.2015 16:57:00" deputies="21" present="18" missing="3" aye="12" no="0" abstained="6" not_voting="0" quorum="1/2A" category="8" category_label="Usnesení" is_procedural="No" is_secret="No" is_first="No" is_last="No" location="0022.xml">
+  <Topic number="19. " file="">NABYTÍ KOMUNIKACE PRO PŘIPRAVOVANOU VÝSTAVBU RD V LOKALITĚ LUH-KORELKA 17/5/ZM/2015 NABYTÍ KOMUNIKACE PRO PŘIPRAVOVANOU VÝSTAVBU RD V LOKALITĚ LUH-KORELKA ZASTUPITELSTVO MĚSTA VSETÍN SCHVALUJE NABYTÍ KONSTRUKCE KOMUNIKACE, JEJÍŽ ROZSAH JE STANOVEN KOLAUDAČNÍM SOUHLASEM Č.J. MUVS-S 8280/2014/OÚPSŘ-280/13-4SUŠ ZE DNE 24. 9. 2014, VČETNĚ VEŘEJNÉHO OSVĚTLENÍ, JEHOŽ ROZSAH JE DÁN KOLAUDAČNÍM SOUHLASEM Č.J. MUVS-S8575/2014/OÚPSŘ-330/BR-6 ZE DNE 18. 9. 2014 A VČETNĚ POZEMKŮ P.Č. 5375/4, OSTATNÍ PLOCHA, 528 M2, P.Č. 5379/5, OSTATNÍ PLOCHA, 1.558 M2, P.Č. 5508, OSTATNÍ PLOCHA, 7 M2 A ČÁSTI P.Č. 5496, VODNÍ PLOCHA, 225 M2, NA NÍŽ SE TATO KOMUNIKACE NACHÁZÍ OD ŽADATELŮ DO VLASTNICTVÍ MĚSTA VSETÍN ZA KUPNÍ CENU 1,- KČ CELKEM, DLE DŮVODOVÉ ZPRÁVY.</Topic>
+  <Comment></Comment>
+ </VotingResult>
+ <VotingResult number="23" time="13.02.2015 16:57:45" deputies="21" present="18" missing="3" aye="18" no="0" abstained="0" not_voting="0" quorum="1/2A" category="8" category_label="Usnesení" is_procedural="No" is_secret="No" is_first="No" is_last="No" location="0023.xml">
+  <Topic number="20. " file="">STANOVENÍ ZPŮSOBU NABYTÍ POZEMKŮ OD ČR-ÚZSVM 18/5/ZM/2015 STANOVENÍ ZPŮSOBU NABYTÍ POZEMKŮ OD ČR-ÚZSVM</Topic>
+  <Comment>8 usnesení</Comment>
+ </VotingResult>
+ <VotingResult number="24" time="13.02.2015 16:58:49" deputies="21" present="18" missing="3" aye="18" no="0" abstained="0" not_voting="0" quorum="1/2A" category="8" category_label="Usnesení" is_procedural="No" is_secret="No" is_first="No" is_last="No" location="0024.xml">
+  <Topic number="21. " file="">SCHVÁLENÍ PODMÍNEK HOSPODAŘENÍ S POZEMKY NABÝVANÝMI DO VLASTNICTVÍ MĚSTA VSETÍN OD ČR-ÚZSVM 19/5/ZM/2015 SCHVÁLENÍ PODMÍNEK HOSPODAŘENÍ S POZEMKY NABÝVANÝMI DO VLASTNICTVÍ MĚSTA VSETÍN OD ČR-ÚZSVM ZASTUPITELSTVO MĚSTA VSETÍN SCHVALUJE S ODKAZEM NA SVÉ USNESENÍ ZE DNE 9. 9. 2014 ­ BOD Z/36/35-4 PODMÍNKY NABYTÍ POZEMKŮ P.Č. 2826/3 ­ 132 M2, P.Č. 2826/4 ­ 112 M2 A P.Č. 14877/3 ­ 71 M2, VŠE OSTATNÍ PLOCHY V K.Ú. VSETÍN Z VLASTNICTVÍ ČR - ÚŘADU PRO ZASTUPOVÁNÍ STÁTU VE VĚCECH MAJETKOVÝCH, RAŠÍNOVO NÁBŘEŽÍ 42/Č.P. 390, 12800 PRAHA - NOVÉ MĚSTO DO VLASTNICTVÍ MĚSTA VSETÍN VE ZNĚNÍ SMLOUVY O BEZÚPLATNÉM PŘEVODU VLASTNICKÉHO PRÁVA K NEMOVITÝM VĚCEM A O ZŘÍZENÍ VĚCNÉHO PRÁVA Č. UZSVM/OVS/4336/2014-OVSM, DLE DŮVODOVÉ ZPRÁVY.</Topic>
+  <Comment></Comment>
+ </VotingResult>
+ <VotingResult number="25" time="13.02.2015 16:59:27" deputies="21" present="18" missing="3" aye="18" no="0" abstained="0" not_voting="0" quorum="1/2A" category="8" category_label="Usnesení" is_procedural="No" is_secret="No" is_first="No" is_last="No" location="0025.xml">
+  <Topic number="22. " file="">SCHVÁLENÍ PODMÍNEK HOSPODAŘENÍ S POZEMKEM NABÝVANÝM DO VLASTNICTVÍ MĚSTA VSETÍN OD ČR-ÚZSVM 20/5/ZM/2015 SCHVÁLENÍ PODMÍNEK HOSPODAŘENÍ S POZEMKEM NABÝVANÝM DO VLASTNICTVÍ MĚSTA VSETÍN OD ČR-ÚZSVM ZASTUPITELSTVO MĚSTA VSETÍN SCHVALUJE S ODKAZEM NA SVÉ USNESENÍ ZE DNE 9. 9. 2014 ­ BOD Z/36/37-4 PODMÍNKY NABYTÍ POZEMKU OZNAČENÉHO NA ZÁKLADĚ GEOMETRICKÉHO PLÁNU Č. 6467 ­ 155/2012 JAKO P.Č. 6963/2, OSTATNÍ PLOCHA, 34 M2, K.Ú. VSETÍN Z VLASTNICTVÍ ČR - ÚŘADU PRO ZASTUPOVÁNÍ STÁTU VE VĚCECH MAJETKOVÝCH, RAŠÍNOVO NÁBŘEŽÍ 42/Č.P. 390, 12800 PRAHA - NOVÉ MĚSTO DO VLASTNICTVÍ MĚSTA VSETÍN VE ZNĚNÍ SMLOUVY O BEZÚPLATNÉM PŘEVODU VLASTNICKÉHO PRÁVA K NEMOVITÉ VĚCI A O ZŘÍZENÍ VĚCNÉHO PRÁVA Č. UZSVM/OVS/103/2015-OVSM, DLE DŮVODOVÉ ZPRÁVY.</Topic>
+  <Comment></Comment>
+ </VotingResult>
+ <VotingResult number="26" time="13.02.2015 17:00:26" deputies="21" present="18" missing="3" aye="18" no="0" abstained="0" not_voting="0" quorum="1/2A" category="8" category_label="Usnesení" is_procedural="No" is_secret="No" is_first="No" is_last="No" location="0026.xml">
+  <Topic number="23.1 " file="">ZASTUPITELSTVO MĚSTA VSETÍN SCHVALUJE ODPRODEJ CELÝCH POZEMKŮ P.Č. 4243, ZAHRADA, 222 M2, P.Č. 4241, ZAHRADA, 19 M2 A ČÁSTI P.Č. 4301/1, OSTATNÍ PLOCHA, 3.767 M2, VYZNAČENÉ V GRAFICKÉ PŘÍLOZE DŮVODOVÉ ZPRÁVY, VŠE K.Ú. VSETÍN, DO VLASTNICTVÍ ŽADATELE ZA KUPNÍ CENU VYCHÁZEJÍCÍ ZE SAZBY 320,- KČ/M2, DLE DŮVODOVÉ ZPRÁVY.</Topic>
+  <Comment>2 usnesení najednou</Comment>
+ </VotingResult>
+ <VotingResult number="27" time="13.02.2015 17:01:18" deputies="21" present="18" missing="3" aye="17" no="0" abstained="0" not_voting="1" quorum="1/2A" category="8" category_label="Usnesení" is_procedural="No" is_secret="No" is_first="No" is_last="No" location="0027.xml">
+  <Topic number="24. " file="">PRODEJ A NABYTÍ POZEMKŮ V SÍDLIŠTI OHRADA 22/5/ZM/2015 PRODEJ A NABYTÍ POZEMKŮ V SÍDLIŠTI OHRADA</Topic>
+  <Comment></Comment>
+ </VotingResult>
+ <VotingResult number="28" time="13.02.2015 17:01:50" deputies="21" present="18" missing="3" aye="17" no="0" abstained="1" not_voting="0" quorum="1/2A" category="8" category_label="Usnesení" is_procedural="No" is_secret="No" is_first="No" is_last="No" location="0028.xml">
+  <Topic number="25.  " file="">PRODEJ POZEMKU U TENISOVÉHO AREÁLU NA ULICI TYRŠOVA 23/5/ZM/2015 PRODEJ POZEMKU U TENISOVÉHO AREÁLU NA ULICI TYRŠOVA ZASTUPITELSTVO MĚSTA VSETÍN NESCHVALUJE ODPRODEJ POZEMKU P.Č. 2895, ZASTAVĚNÁ PLOCHA, 421 M2, JEHOŽ SOUČÁSTÍ JE OBJEKT JINÉ STAVBY NA TOMTO POZEMKU SE NACHÁZEJÍCÍ, K.Ú. VSETÍN DO VLASTNICTVÍ ŽADATELE ZA KUPNÍ CENU V CELKOVÉ VÝŠI 230.000,-KČ, DLE DŮVODOVÉ ZPRÁVY.</Topic>
+  <Comment></Comment>
+ </VotingResult>
+ <VotingResult number="29" time="13.02.2015 17:05:03" deputies="21" present="18" missing="3" aye="18" no="0" abstained="0" not_voting="0" quorum="1/2A" category="8" category_label="Usnesení" is_procedural="No" is_secret="No" is_first="No" is_last="No" location="0029.xml">
+  <Topic number="26. " file="">UZAVŘENÍ SMLOUVY O SMLOUVĚ BUDOUCÍ O ZŘÍZENÍ VĚCNÉHO BŘEMENE U PROJEKTU &quot;STAVEBNÍ ÚPRAVY CHODNÍKŮ SOUVISEJÍCÍ S PŘECHODY PRO CHODCE SILNIC I. A III. TŘÍDY&quot;24/5/ZM/2015 UZAVŘENÍ SMLOUVY O SMLOUVĚ BUDOUCÍ O ZŘÍZENÍ VĚCNÉHO BŘEMENE U PROJEKTU &quot;STAVEBNÍ ÚPRAVY CHODNÍKŮ SOUVISEJÍCÍ S PŘECHODY PRO CHODCE SILNIC I. A III. TŘÍDY&quot; ZASTUPITELSTVO MĚSTA VSETÍN SCHVALUJE DLE UST. § 85 PÍSM. A) ZÁKONA Č. 128/2000 SB. O OBCÍCH, V PLATNÉM ZNĚNÍ, UZAVŘENÍ „SMLOUVY O SMLOUVĚ BUDOUCÍ O ZŘÍZENÍ VĚCNÉHO BŘEMENE“ MEZI MĚSTEM VSETÍN, IČ: 003 04 450, ZLÍNSKÝM KRAJEM, IČ: 708 91 320 A ŘEDITELSTVÍM SILNIC ZLÍNSKÉHO KRAJE, PŘÍSPĚVKOVÁ ORGANIZACE, IČ: 709 34 860, NA POZEMCÍCH P.Č. 3180/1 A 3210/2 (OBA V K.Ú. VSETÍN), U PROJEKTU: &quot;STAVEBNÍ ÚPRAVY CHODNÍKŮ SOUVISEJÍCÍ S PŘECHODY PRO CHODCE SILNIC I. A III. TŘÍDY&quot; - SO 01 PŘECHOD PRO CHODCE ULICE NÁDRAŽNÍ U Č.P. 841, DLE DŮVODOVÉ ZPRÁVY.</Topic>
+  <Comment></Comment>
+ </VotingResult>
+ <VotingResult number="30" time="13.02.2015 17:06:16" deputies="21" present="18" missing="3" aye="18" no="0" abstained="0" not_voting="0" quorum="1/2A" category="8" category_label="Usnesení" is_procedural="No" is_secret="No" is_first="No" is_last="No" location="0030.xml">
+  <Topic number="27. " file="">ČISTÁ ŘEKA BEČVA II, SPLAŠKOVÁ KANALIZACE HRBOVÁ - SMLOUVA O BUDOUCÍ SMLOUVĚ O ZŘÍZENÍ SLUŽEBNOSTI INŽENÝRSKÉ SÍTĚ SE SPOLUVLASTNÍKY DOTČENÉHO POZEMKU 25/5/ZM/2015 ČISTÁ ŘEKA BEČVA II, SPLAŠKOVÁ KANALIZACE HRBOVÁ - SMLOUVA O BUDOUCÍ SMLOUVĚ O ZŘÍZENÍ SLUŽEBNOSTI INŽENÝRSKÉ SÍTĚ SE SPOLUVLASTNÍKY DOTČENÉHO POZEMKU</Topic>
+  <Comment>2 usnesení najednoou</Comment>
+ </VotingResult>
+ <VotingResult number="31" time="13.02.2015 17:08:31" deputies="21" present="18" missing="3" aye="18" no="0" abstained="0" not_voting="0" quorum="1/2A" category="8" category_label="Usnesení" is_procedural="No" is_secret="No" is_first="No" is_last="No" location="0031.xml">
+  <Topic number="28. " file="">&quot;ODVEDENÍ DEŠŤOVÝCH VOD HRBOVÁ A JEHO PRODLOUŽENÍ, VSETÍN&quot; - ZMĚNA STAVBY PŘED DOKONČENÍM 26/5/ZM/2015 &quot;ODVEDENÍ DEŠŤOVÝCH VOD HRBOVÁ A JEHO PRODLOUŽENÍ, VSETÍN&quot; - ZMĚNA STAVBY PŘED DOKONČENÍM</Topic>
+  <Comment>3 usnesení najednou</Comment>
+ </VotingResult>
+ <VotingResult number="32" time="13.02.2015 17:18:24" deputies="21" present="17" missing="4" aye="17" no="0" abstained="0" not_voting="0" quorum="1/2A" category="8" category_label="Usnesení" is_procedural="No" is_secret="No" is_first="No" is_last="No" location="0032.xml">
+  <Topic number="29. " file="">REGENERACE PANELOVÉHO SÍDLIŠTĚ VSETÍN - LUH: SCHVÁLENÍ PROJEKTU, PODÁNÍ ŽÁDOSTI O DOTACI A FINANČNÍCH PROSTŘEDKŮ NA I. ETAPU PROJEKTU 27/5/ZM/2015 REGENERACE PANELOVÉHO SÍDLIŠTĚ VSETÍN - LUH: SCHVÁLENÍ PROJEKTU, PODÁNÍ ŽÁDOSTI O DOTACI A FINANČNÍCH PROSTŘEDKŮ NA I. ETAPU PROJEKTU</Topic>
+  <Comment>3. usnesení najednou</Comment>
+ </VotingResult>
+ <VotingResult number="33" time="13.02.2015 17:21:32" deputies="21" present="18" missing="3" aye="17" no="0" abstained="0" not_voting="1" quorum="1/2A" category="8" category_label="Usnesení" is_procedural="No" is_secret="No" is_first="No" is_last="No" location="0033.xml">
+  <Topic number="30. " file="">OZV STANOVUJÍCÍ PRAVIDLA POHYBU PSŮ NA VEŘEJNÉM PROSTRANSTVÍ 28/5/ZM/2015 OZV STANOVUJÍCÍ PRAVIDLA POHYBU PSŮ NA VEŘEJNÉM PROSTRANSTVÍ ZASTUPITELSTVO MĚSTA VSETÍN SCHVALUJE OBECNĚ ZÁVAZNOU VYHLÁŠKU Č. 1/2015, STANOVUJÍCÍ PRAVIDLA PRO POHYB PSŮ NA VEŘEJNÉM PROSTRANSTVÍ A VYMEZUJÍCÍ PROSTORY PRO VOLNÉ POBÍHÁNÍ PSŮ, DLE PODMÍNEK UVEDENÝCH V DŮVODOVÉ ZPRÁVĚ.</Topic>
+  <Comment></Comment>
+ </VotingResult>
+ <VotingResult number="34" time="13.02.2015 17:22:53" deputies="21" present="18" missing="3" aye="17" no="0" abstained="0" not_voting="1" quorum="1/2A" category="8" category_label="Usnesení" is_procedural="No" is_secret="No" is_first="No" is_last="No" location="0034.xml">
+  <Topic number="7. " file="">VYHLÁŠENÍ VÝBĚROVÉHO ŘÍZENÍ FONDU ROZVOJE BYDLENÍ PRO ROK 2015 5/5/ZM/2015 VYHLÁŠENÍ VÝBĚROVÉHO ŘÍZENÍ FONDU ROZVOJE BYDLENÍ PRO ROK 2015</Topic>
+  <Comment>3. najednou</Comment>
+ </VotingResult>
+ <VotingResult number="35" time="13.02.2015 17:26:06" deputies="21" present="18" missing="3" aye="18" no="0" abstained="0" not_voting="0" quorum="1/2A" category="8" category_label="Usnesení" is_procedural="No" is_secret="No" is_first="No" is_last="No" location="0035.xml">
+  <Topic number="31. " file="">STANOVENÍ VÝŠE ODMĚNY ZA VÝKON FUNKCÍ NEUVOLNĚNÝM ČLENŮM ZASTUPITELSTVA A NÁHRADA UŠLÉHO VÝDĚLKU 29/5/ZM/2015 STANOVENÍ VÝŠE ODMĚNY ZA VÝKON FUNKCÍ NEUVOLNĚNÝM ČLENŮM ZASTUPITELSTVA A NÁHRADA UŠLÉHO VÝDĚLKU</Topic>
+  <Comment>3 usnesení najednou</Comment>
+ </VotingResult>
+ <VotingResult number="36" time="13.02.2015 17:33:58" deputies="21" present="18" missing="3" aye="14" no="1" abstained="3" not_voting="0" quorum="1/2A" category="8" category_label="Usnesení" is_procedural="No" is_secret="No" is_first="No" is_last="No" location="0036.xml">
+  <Topic number="32. " file="">SCHVÁLENÍ DODATKU Č. 1 K DOHODĚ O PŘEVZETÍ PLNĚNÍ S DOHODOU O NAROVNÁNÍ ­ AGENTURA PRO EKONOMICKÝ ROZVOJ VSETÍNSKA, O.P.S. 30/5/ZM/2015 SCHVÁLENÍ DODATKU Č. 1 K DOHODĚ O PŘEVZETÍ PLNĚNÍ S DOHODOU O NAROVNÁNÍ ­ AGENTURA PRO EKONOMICKÝ ROZVOJ VSETÍNSKA, O.P.S. ZASTUPITELSTVO MĚSTA VSETÍN SCHVALUJE UZAVŘENÍ DODATKU Č. 1 K DOHODĚ O PŘEVZETÍ PLNĚNÍ S DOHODOU O NAROVNÁNÍ S AGENTUROU PRO EKONOMICKÝ ROZVOJ VSETÍNSKA O.P.S., SE SÍDLEM HORNÍ NÁMĚSTÍ Č.P. 3, 755 01 VSETÍN, IČ: 26863081, ZA PODMÍNEK UVEDENÝCH V DŮVODOVÉ ZPRÁVĚ.</Topic>
+  <Comment></Comment>
+ </VotingResult>
+ <VotingResult number="37" time="13.02.2015 17:36:56" deputies="21" present="18" missing="3" aye="14" no="0" abstained="3" not_voting="1" quorum="1/2A" category="8" category_label="Usnesení" is_procedural="No" is_secret="No" is_first="No" is_last="No" location="0037.xml">
+  <Topic number="34. " file="">ŽÁDOST O SPLÁTKOVÝ KALENDÁŘ-RADVANOVSKÝ MARTIN 32/5/ZM/2015 ŽÁDOST O SPLÁTKOVÝ KALENDÁŘ-RADVANOVSKÝ MARTIN ZASTUPITELSTVO MĚSTA VSETÍN SCHVALUJE NA ZÁKLADĚ ŽÁDOSTI PANA MARTINA RADVANOVSKÉHO UZAVŘENÍ DOHODY O UZNÁNÍ DLUHU VE VÝŠI 25.584,- KČ A JEHO SPLÁTKOVÉ ÚHRADĚ ZA PODMÍNEK UVEDENÝCH V DŮVODOVÉ ZPRÁVĚ.</Topic>
+  <Comment></Comment>
+ </VotingResult>
+ <VotingResult number="38" time="13.02.2015 17:39:47" deputies="21" present="18" missing="3" aye="18" no="0" abstained="0" not_voting="0" quorum="1/2A" category="8" category_label="Usnesení" is_procedural="No" is_secret="No" is_first="No" is_last="No" location="0038.xml">
+  <Topic number="35. " file="">ŽÁDOST O SPLÁTKOVÝ KALENDÁŘ-ŽIGOVÁ ŽOFIA 33/5/ZM/2015 ŽÁDOST O SPLÁTKOVÝ KALENDÁŘ-ŽIGOVÁ ŽOFIA ZASTUPITELSTVO MĚSTA VSETÍN SCHVALUJE NA ZÁKLADĚ ŽÁDOSTI PANÍ ŽIGOVÉ ŽOFIE UZAVŘENÍ DOHODY O UZNÁNÍ DLUHU VE VÝŠI 51.980,- KČ A JEHO SPLÁTKOVÉ ÚHRADĚ ZA PODMÍNEK UVEDENÝCH V DŮVODOVÉ ZPRÁVĚ.</Topic>
+  <Comment></Comment>
+ </VotingResult>
+ <VotingResult number="39" time="13.02.2015 17:41:28" deputies="21" present="18" missing="3" aye="18" no="0" abstained="0" not_voting="0" quorum="1/2A" category="8" category_label="Usnesení" is_procedural="No" is_secret="No" is_first="No" is_last="No" location="0039.xml">
+  <Topic number="36. " file="">ŽÁDOST O SPLÁTKOVÝ KALENDÁŘ-MANŽELÉ SUROVČÁKOVI 34/5/ZM/2015 ŽÁDOST O SPLÁTKOVÝ KALENDÁŘ-MANŽELÉ SUROVČÁKOVI ZASTUPITELSTVO MĚSTA VSETÍN SCHVALUJE NA ZÁKLADĚ ŽÁDOSTI MANŽELŮ RADKY A MOJMÍRA SUROVČÁKOVÝCH UZAVŘENÍ DOHODY O UZNÁNÍ DLUHU VE VÝŠI 19.908,- KČ A JEHO SPLÁTKOVÉ ÚHRADĚ ZA PODMÍNEK UVEDENÝCH V DŮVODOVÉ ZPRÁVĚ.</Topic>
+  <Comment></Comment>
+ </VotingResult>
+ <VotingResult number="40" time="13.02.2015 18:09:46" deputies="21" present="18" missing="3" aye="15" no="1" abstained="2" not_voting="0" quorum="1/2A" category="8" category_label="Usnesení" is_procedural="No" is_secret="No" is_first="No" is_last="No" location="0040.xml">
+  <Topic number="37. " file="">VÝROBA A ODBAVENÍ TELEVIZNÍHO ZPRAVODAJSTVÍ ZE VSETÍNA 35/5/ZM/2015 VÝROBA A ODBAVENÍ TELEVIZNÍHO ZPRAVODAJSTVÍ ZE VSETÍNA</Topic>
+  <Comment>2 usnesení najednou</Comment>
+ </VotingResult>
+ <VotingResult number="41" time="13.02.2015 18:14:12" deputies="21" present="17" missing="4" aye="14" no="1" abstained="1" not_voting="1" quorum="1/2A" category="8" category_label="Usnesení" is_procedural="No" is_secret="No" is_first="No" is_last="No" location="0041.xml">
+  <Topic number="38. " file="">ROZDĚLENÍ DOTACÍ V OBLASTI KULTURY PRO ROK 2015 36/5/ZM/2015 ROZDĚLENÍ DOTACÍ V OBLASTI KULTURY PRO ROK 2015</Topic>
+  <Comment>23 usnesení</Comment>
+ </VotingResult>
+ <VotingResult number="42" time="13.02.2015 18:24:46" deputies="21" present="17" missing="4" aye="15" no="1" abstained="1" not_voting="0" quorum="1/2A" category="8" category_label="Usnesení" is_procedural="No" is_secret="No" is_first="No" is_last="No" location="0042.xml">
+  <Topic number="39. " file="">ROZDĚLENÍ DOTACÍ V OBLASTI SPORTU PRO ROK 2015 37/5/ZM/2015 ROZDĚLENÍ DOTACÍ V OBLASTI SPORTU PRO ROK 2015</Topic>
+  <Comment>14 usnesení najednou</Comment>
+ </VotingResult>
+ <VotingResult number="43" time="13.02.2015 18:27:19" deputies="21" present="17" missing="4" aye="14" no="0" abstained="1" not_voting="2" quorum="1/2A" category="8" category_label="Usnesení" is_procedural="No" is_secret="No" is_first="No" is_last="No" location="0043.xml">
+  <Topic number="40. " file="">ŽÁDOST O UZAVŘENÍ DODATKU SMLOUVY O FINANČNÍM PŘÍSPĚVKU - NADĚJE 38/5/ZM/2015 ŽÁDOST O UZAVŘENÍ DODATKU SMLOUVY O FINANČNÍM PŘÍSPĚVKU - NADĚJE ZASTUPITELSTVO MĚSTA VSETÍN SCHVALUJE UZAVŘENÍ DODATKU Č. 1 KE SMLOUVĚ O FINANČNÍM PŘÍSPĚVKU NA KOMPENZACI NÁKLADŮ ZÁVAZKU VEŘEJNÉ SLUŽBY ­ ZAJIŠTĚNÍ SLUŽEB OBECNÉHO HOSPODÁŘSKÉHO ZÁJMU Č. 05/2014/OS/SML Č. 83 UZAVŘENÉ MEZI MĚSTEM VSETÍN A NADĚJÍ, JEHOŽ PŘEDMĚTEM BUDE ZMĚNA KAPACITY SLUŽBY OSOBNÍ ASISTENCE, DLE PŘEDLOŽENÉ DŮVODOVÉ ZPRÁVY.</Topic>
+  <Comment></Comment>
+ </VotingResult>
+ <VotingResult number="44" time="13.02.2015 18:32:46" deputies="21" present="17" missing="4" aye="16" no="1" abstained="0" not_voting="0" quorum="1/2A" category="8" category_label="Usnesení" is_procedural="No" is_secret="No" is_first="No" is_last="No" location="0044.xml">
+  <Topic number="41. " file="">ROZDĚLENÍ DOTACÍ V SOCIÁLNÍ OBLASTI PRO ROK 2015 39/5/ZM/2015 ROZDĚLENÍ DOTACÍ V SOCIÁLNÍ OBLASTI PRO ROK 2015</Topic>
+  <Comment>71 usnesení</Comment>
+ </VotingResult>
+ <VotingResult number="45" time="13.02.2015 18:34:23" deputies="21" present="17" missing="4" aye="16" no="0" abstained="1" not_voting="0" quorum="1/2A" category="8" category_label="Usnesení" is_procedural="No" is_secret="No" is_first="No" is_last="No" location="0045.xml">
+  <Topic number="42. " file="">SCHVÁLENÍ 3. KOMUNITNÍHO PLÁNU SOCIÁLNÍCH SLUŽEB A PÉČE V ORP VSETÍN 40/5/ZM/2015 SCHVÁLENÍ 3. KOMUNITNÍHO PLÁNU SOCIÁLNÍCH SLUŽEB A PÉČE V ORP VSETÍN ZASTUPITELSTVO MĚSTA VSETÍN SCHVALUJE DOKUMENT 3. KOMUNITNÍ PLÁN SOCIÁLNÍCH SLUŽEB A PÉČE V ORP VSETÍN NA OBDOBÍ 2015 - 2020</Topic>
+  <Comment></Comment>
+ </VotingResult>
+ <VotingResult number="46" time="13.02.2015 18:37:05" deputies="21" present="17" missing="4" aye="17" no="0" abstained="0" not_voting="0" quorum="1/2A" category="8" category_label="Usnesení" is_procedural="No" is_secret="No" is_first="No" is_last="No" location="0046.xml">
+  <Topic number="43. " file="">PLÁN ČINNOSTI KONTROLNÍHO VÝBORU ZASTUPITELSTVA MĚSTA VSETÍNA NA R. 2015 41/5/ZM/2015 PLÁN ČINNOSTI KONTROLNÍHO VÝBORU ZASTUPITELSTVA MĚSTA VSETÍNA NA R. 2015 ZASTUPITELSTVO MĚSTA VSETÍN SCHVALUJE PLÁN ČINNOSTI KONTROLNÍHO VÝBORU ZASTUPITELSTVA MĚSTA VSETÍNA NA R. 2015 V PŘEDLOŽENÉM ZNĚNÍ 44. JEDNACÍ ŘÁD KONTROLNÍHO VÝBORU ZASTUPITELSTVA MĚSTA VSETÍNA 42/5/ZM/2015 JEDNACÍ ŘÁD KONTROLNÍHO VÝBORU ZASTUPITELSTVA MĚSTA VSETÍNA ZASTUPITELSTVO MĚSTA VSETÍN SCHVALUJE JEDNACÍ ŘÁD KONTROLNÍHO VÝBORU ZASTUPITELSTVA MĚSTA VSETÍNA V PŘEDLOŽENÉM ZNĚNÍ.</Topic>
+  <Comment></Comment>
+ </VotingResult>
+ <VotingResult number="47" time="13.02.2015 18:45:27" deputies="21" present="17" missing="4" aye="15" no="0" abstained="2" not_voting="0" quorum="1/2A" category="8" category_label="Usnesení" is_procedural="No" is_secret="No" is_first="No" is_last="No" location="0047.xml">
+  <Topic number="44. " file="">ZÁPISY ZE ZASEDÁNÍ KONTROLNÍHO VÝBORU ZASTUPITELSTVA MĚSTA VSETÍNA 43/5/ZM/2015 ZÁPISY ZE ZASEDÁNÍ KONTROLNÍHO VÝBORU ZASTUPITELSTVA MĚSTA VSETÍNA ZASTUPITELSTVO MĚSTA VSETÍN BERE NA VĚDOMÍ ZÁPISY ZE ZASEDÁNÍ KONTROLNÍHO VÝBORU ZASTUPITELSTVA MĚSTA VSETÍNA ZE DNE 7.1.2015 A 2.2.2015.</Topic>
+  <Comment>Jednací řád</Comment>
+ </VotingResult>
+ <VotingResult number="48" time="13.02.2015 18:46:05" deputies="21" present="17" missing="4" aye="17" no="0" abstained="0" not_voting="0" quorum="1/2A" category="8" category_label="Usnesení" is_procedural="No" is_secret="No" is_first="No" is_last="Yes" location="0048.xml">
+  <Topic number="45. " file="">ZÁPISY ZE ZASEDÁNÍ KONTROLNÍHO VÝBORU ZASTUPITELSTVA MĚSTA VSETÍNA 43/5/ZM/2015 ZÁPISY ZE ZASEDÁNÍ KONTROLNÍHO VÝBORU ZASTUPITELSTVA MĚSTA VSETÍNA ZASTUPITELSTVO MĚSTA VSETÍN BERE NA VĚDOMÍ ZÁPISY ZE ZASEDÁNÍ KONTROLNÍHO VÝBORU ZASTUPITELSTVA MĚSTA VSETÍNA ZE DNE 7.1.2015 A 2.2.2015.</Topic>
+  <Comment></Comment>
+ </VotingResult>
+ <Copyright author="H.E.R. Systém © A.S.Partner, s.r.o., Košice" licensee="Město Vsetín" representative="Zastoupení v ČR: BitEST Kutná Hora - www.bitest.cz"/>
+</Session>
+

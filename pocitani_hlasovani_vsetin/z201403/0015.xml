@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet type="text/xsl" href="xsls/her_vrx.xsl" ?>
+<VotingResult number="15" time="08.12.2014 18:44:44" deputies="21" present="21" missing="0" aye="15" no="1" abstained="5" not_voting="0" quorum="1/2A" category="8" category_label="Usnesení" is_procedural="No" is_secret="No" is_first="No" is_last="No">
+ <Session number="201403" election_period="3">3. Zasedání Zastupitelstva Města Vsetín</Session>
+ <Topic number="5.4 " file="">Volba dalších členů Rady města Vsetín, ZMV volí v souladu s ustanovením § 84, odst. 2, písm. m) zákona č. 128/2000 Sb., o obcích, ve znění pozdějších předpisů, do funkce člena Rady města Vsetín: - pana/paní .........................., nar. dne ..............................., bytem .............................................. - pana/paní .........................., nar. dne ..............................., bytem .............................................. - pana/paní .........................., nar. dne ..............................., bytem ..............................................</Topic>
+ <Comment>Ing. Kudlík</Comment>
+ <Deputy id="1" election_period="3" card="2" title="MUDr." first_name="Daniel" name="Bělov" party="KDU-ČSL" vote="AYE" order_a="1"/>
+ <Deputy id="2" election_period="3" card="1" title="BcA." first_name="Michal" name="Berg" party="KOV" vote="AYE" order_a="2"/>
+ <Deputy id="3" election_period="3" card="4" title="" first_name="Jiří" name="Čunek" party="KDU-ČSL" vote="AYE" order_a="3"/>
+ <Deputy id="4" election_period="3" card="3" title="Mgr." first_name="Simona" name="Hlaváčová" party="KDU-ČSL" vote="AYE" order_a="4"/>
+ <Deputy id="5" election_period="3" card="5" title="Ing." first_name="Bohumila" name="Holeňová" party="KDU-ČSL" vote="AYE" order_a="5"/>
+ <Deputy id="6" election_period="3" card="6" title="MUDr. " first_name="Tomáš" name="Husa" party="KOV" vote="AYE" order_a="6"/>
+ <Deputy id="7" election_period="3" card="10" title="Bc." first_name="Roman" name="Kalabus" party="ODS" vote="ABSTAINED" order_a="7"/>
+ <Deputy id="8" election_period="3" card="7" title="Bc." first_name="Jiří" name="Kašpar" party="ANO2011" vote="AYE" order_a="8"/>
+ <Deputy id="9" election_period="3" card="13" title="Mgr." first_name="Petr" name="Kořenek" party="ČSSD" vote="AYE" order_a="9"/>
+ <Deputy id="10" election_period="3" card="9" title="Ing." first_name="Jaromír" name="Kudlík" party="ANO2011" vote="AYE" order_a="10"/>
+ <Deputy id="11" election_period="3" card="8" title="MUDr." first_name="Pavol" name="Lambert" party="ANO2011" vote="AYE" order_a="11"/>
+ <Deputy id="12" election_period="3" card="11" title="" first_name="Josef" name="Novosad" party="KSČM" vote="ABSTAINED" order_a="12"/>
+ <Deputy id="13" election_period="3" card="17" title="JUDr." first_name="Stanislav" name="Pavelec" party="TOP09" vote="NO" order_a="13"/>
+ <Deputy id="14" election_period="3" card="12" title="RNDr." first_name="Karel" name="Pavelka" party="KOV" vote="AYE" order_a="14"/>
+ <Deputy id="15" election_period="3" card="16" title="Ing." first_name="Tomáš" name="Pifka" party="STANV" vote="AYE" order_a="15"/>
+ <Deputy id="16" election_period="3" card="20" title="Ing. Ph.D." first_name="Libor" name="Podešva" party="KDU-ČSL" vote="AYE" order_a="16"/>
+ <Deputy id="17" election_period="3" card="15" title="Mgr. " first_name="Dalibor" name="Sedláček" party="ČSSD" vote="ABSTAINED" order_a="17"/>
+ <Deputy id="18" election_period="3" card="18" title="Bc." first_name="Iveta" name="Táborská" party="ODS" vote="ABSTAINED" order_a="18"/>
+ <Deputy id="19" election_period="3" card="21" title="MUDr." first_name="Róbert" name="Teleky" party="KDU-ČSL" vote="AYE" order_a="19"/>
+ <Deputy id="20" election_period="3" card="14" title="Mgr." first_name="Taťána" name="Valentová Nersesjan" party="ČSSD" vote="ABSTAINED" order_a="20"/>
+ <Deputy id="21" election_period="3" card="19" title="" first_name="Zdeněk" name="Vejpustek" party="KSČM" vote="AYE" order_a="21"/>
+ <Parties count="8">
+  <Party index="1" label="KDU-ČSL" name="KDU-ČSL" present="6" missing="0" aye="6" no="0" abstained="0" not_voting="0" memberCount="6">
+   <Member deputyId="1"/>
+   <Member deputyId="3"/>
+   <Member deputyId="4"/>
+   <Member deputyId="5"/>
+   <Member deputyId="16"/>
+   <Member deputyId="19"/>
+  </Party>
+  <Party index="2" label="ANO2011" name="ANO2011" present="3" missing="0" aye="3" no="0" abstained="0" not_voting="0" memberCount="3">
+   <Member deputyId="8"/>
+   <Member deputyId="10"/>
+   <Member deputyId="11"/>
+  </Party>
+  <Party index="3" label="ČSSD" name="ČSSD" present="3" missing="0" aye="1" no="0" abstained="2" not_voting="0" memberCount="3">
+   <Member deputyId="9"/>
+   <Member deputyId="17"/>
+   <Member deputyId="20"/>
+  </Party>
+  <Party index="4" label="KOV" name="KOV" present="3" missing="0" aye="3" no="0" abstained="0" not_voting="0" memberCount="3">
+   <Member deputyId="2"/>
+   <Member deputyId="6"/>
+   <Member deputyId="14"/>
+  </Party>
+  <Party index="5" label="KSČM" name="KSČM" present="2" missing="0" aye="1" no="0" abstained="1" not_voting="0" memberCount="2">
+   <Member deputyId="12"/>
+   <Member deputyId="21"/>
+  </Party>
+  <Party index="6" label="ODS" name="ODS" present="2" missing="0" aye="0" no="0" abstained="2" not_voting="0" memberCount="2">
+   <Member deputyId="7"/>
+   <Member deputyId="18"/>
+  </Party>
+  <Party index="7" label="STANV" name="STANV" present="1" missing="0" aye="1" no="0" abstained="0" not_voting="0" memberCount="1">
+   <Member deputyId="15"/>
+  </Party>
+  <Party index="8" label="TOP09" name="TOP09" present="1" missing="0" aye="0" no="1" abstained="0" not_voting="0" memberCount="1">
+   <Member deputyId="13"/>
+  </Party>
+ </Parties>
+ <Copyright author="H.E.R. Systém © A.S.Partner, s.r.o., Košice" licensee="Město Vsetín" representative="Zastoupení v ČR: BitEST Kutná Hora - www.bitest.cz"/>
+</VotingResult>
+
