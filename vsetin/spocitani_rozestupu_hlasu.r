@@ -1,4 +1,7 @@
-#load("votes-vsetin.csv")
+load("vsetin/vsechna-hlasovani.csv")
+
+#tohle stále nefunguje
+
 
 # INPUT PARAMETERS
 # _X_SOURCE, _LO_LIMIT_1
@@ -9,13 +12,13 @@
 # "voter_id","vote_event_id","option"
 # “Joe Europe”,”Division-007”,”yes”
 X_source <- votes
-X_source <- subset(X_source, grepl("2015", X_source$vote_event_id))
+#X_source <- subset(X_source, grepl("2015", X_source$vote_event_id)) - filtruje pouze rok 2015
 # lower limit to eliminate from calculations, e.g., .1; number
 lo_limit = 0
 
 # reorder data; divisions x persons
 # we may need to install and/or load some additional libraries
-#install.packages("reshape2")
+#install.packages("reshape2") - je potřeba instalovat pokud se spouští poprvé
 library("reshape2")
 
 X_source$vote_event_id = as.factor(X_source$vote_event_id)
@@ -211,19 +214,12 @@ voters$color <- gsub("ODS", "blue", voters$color)
 voters$color <- gsub("Nezávis.", "red", voters$color)
 voters$color <- gsub("ANO2011", "cyan", voters$color)
 voters$color <- gsub("KOV", "green", voters$color)
-voters$color <- gsub("STANV", "blue", voters$color)
-voters$color <- gsub("TOP09", "black", voters$color)
-voters$color <- gsub("KDU-ÄŒSL bpp", "gold", voters$color)
-voters$color <- gsub("KDU-ÄŒSL", "gold", voters$color)
+voters$color <- gsub("STANV", "black", voters$color)
+voters$color <- gsub("TOP09", "mediumvioletred", voters$color)
 voters$color <- gsub("KDU-ČSL", "gold", voters$color)
-voters$color <- gsub("KDU bpp", "gold", voters$color)
-voters$color <- gsub("ÄŒSSD bpp", "orange", voters$color)
-voters$color <- gsub("ÄŒSSD", "orange", voters$color)
 voters$color <- gsub("ČSSD", "orange", voters$color)
-voters$color <- gsub("KSÄŒM bpp", "red", voters$color)
-voters$color <- gsub("KSÄŒM", "red", voters$color)
 voters$color <- gsub("KSČM", "red", voters$color)
 
 names(voters) <- c("id", "name", "group", "wpca:d1", "wpca:d2", "r", "result", "opacity", "color")
 
-write.csv(voters, "vsetin/voters.csv", row.names = FALSE)
+write.csv(voters, "voters.csv", row.names = FALSE)
