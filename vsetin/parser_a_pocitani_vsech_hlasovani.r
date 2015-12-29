@@ -353,5 +353,5 @@ voters$color <- gsub("KSČM", "red", voters$color)
 
 names(voters) <- c("id", "name", "group", "wpca:d1", "wpca:d2", "r", "result", "opacity", "color")
 
-write.csv(voters, "voters.csv", row.names = FALSE)
+write.csv(voters, "spocitane_hlasovani_vsetin/voters.csv", row.names = FALSE)
 
