@@ -1,138 +1,7 @@
+load("vsetin/vsechna-hlasovani.csv")
 
-baselink <- "https://dl.dropboxusercontent.com/u/2424343/zeleni/zastupitelé/hlasovani/"
-#odkaz, odkud se stahují XMLka
+#tohle stále nefunguje
 
-terminy <- c("z201401","z201402","z201403","z201404","z201501","z201502","z201503")
-#názvy složek jednotlivých hlasování
-
-pocet_hlasovani <- 7
-#upravit, určuje počet průchodů smyčky
-
-for (j in 1:pocet_hlasovani) {
-  
-  link <- paste(baselink, terminy[j], sep="")
-  # spojí základní baselink a název složky
-  baselink2 <- link
-  
-  #vytvoří dočasný baselink2 pro tuto smyčku
-  
-  print (link)
-  
-  if (j==1) delka<-16
-  if (j==2) delka<-5
-  if (j==3) delka<-31
-  if (j==4) delka<-17
-  if (j==5) delka<-48
-  if (j==6) delka<-62
-  if (j==7) delka<-55
-  #určuje počty hlasování v každém zastupitelstvu
-  
-  for (ii in 1:delka) {
-    #smyčka prochází složku a hledá soubory pro každé jednotlivé hlasování
-    print(delka)
-    print(ii)
-    if (ii<10) link <- paste(link, "/000", sep="") 
-    if (ii>9) link <- paste(link, "/00", sep="")
-    #doplnění nul do názvu souboru
-   link <- paste(link,ii,sep="")
-   #spojí URL s nulami a číslo hlasování
-   link <- paste(link,".xml",sep="")
-   #připojí konxovku .xml
-     
-   print(link)
-   #vypíše URL které se právě zpracovává
-     
-  #načtení souboru jednoho hlasování 
-html <- readLines(link, encoding = "utf-8")
-html <- data.frame(html)
-html$include <- sapply(html$html, function(x) ifelse(grepl("Deputy id", x) == T, 1, 0))
-html <- html[which(html$include == 1), ]
-html <- data.frame(do.call('rbind', strsplit(as.character(html$html), "=")))
-#rozdělení podle rovnítka, níže následuje rozdělení na jednotlivé sloupce
-
-voter_id <- data.frame(do.call('rbind', strsplit(as.character(html$X2), '"')))
-voter_id <- data.frame(voter_id$X2)
-names(voter_id) <- "voter_id"
-
-title <- data.frame(do.call('rbind', strsplit(as.character(html$X5), '"')))
-title <- data.frame(title$X2)
-names(title) <- "title"
-
-given_name <- data.frame(do.call('rbind', strsplit(as.character(html$X6), '"')))
-given_name <- data.frame(given_name$X2)
-names(given_name) <- "given_name"
-
-family_name <- data.frame(do.call('rbind', strsplit(as.character(html$X7), '"')))
-family_name <- data.frame(family_name$X2)
-names(family_name) <- "family_name"
-
-group <- data.frame(do.call('rbind', strsplit(as.character(html$X8), '"')))
-group <- data.frame(group$X2)
-names(group) <- "group"
-
-option <- data.frame(do.call('rbind', strsplit(as.character(html$X9), '"')))
-option <- data.frame(option$X2)
-names(option) <- "option"
-
-result <- cbind(voter_id, title)
-result <- cbind(result, given_name)
-result <- cbind(result, family_name)
-result <- cbind(result, group)
-result <- cbind(result, option)
-result$vote_event_id <- link
-#nyní máme rozparsováno jedno hlasování do tabulky
-
-rm(list = ls() [!ls() %in% c("html", "link", "baselink", "baselink2", "delka", "terminy", "ii", "j", "votes")])
-#odstraní se objekty s výjimkou jmenovaných
-
-for (i in c(2, 5:9)) {
-  
-  data <- data.frame(do.call('rbind', strsplit(as.character(html[, i]), '"')))
-  data <- data.frame(data$X2)
-  
-  if (i == 2) {
-    
-    result <- data
-    
-  } else {
-    
-    result <- cbind(result, data)
-    
-  } # if (i == 2)
-  
-} # for (i in c(2, 5:9))
-
-
-names(result) <- c("voter_id", "title", "family_name", "given_name", "group", "option")
-#pojmenuje sloupce
-
-result$vote_event_id <- link
-
-link <- baselink2
-#znovu se aktualizuje URL hlasování
-
-
-
-#zde se sčítají do tabulky "votes" všechna hlasování
-
-  if (exists("votes") == FALSE) {
-    #pokud neexistuje, tak se založí
-    votes <- result
-    
-  } else {
-    #pokud existuje, tak se rbindem připojí
-    votes <- rbind(votes, result)
-    
-  } # if (exists("votes") == FALSE)
-  
-  } #for (j in 1:delka)
-  
-} #for (i in 1:7)
-
-write.csv(votes, "vsetin/vsechna-hlasovani.csv", row.names = FALSE)
-#uloží výsledek do csv souboru
-
-#load("vsetin/vsechna-hlasovani.csv") - tohle stále nefunguje
 
 # INPUT PARAMETERS
 # _X_SOURCE, _LO_LIMIT_1
@@ -341,7 +210,7 @@ voters$r <- 0.1
 voters$result <- 1
 voters$opacity <- 0.7
 voters$color <- voters$group
-voters$color <- gsub("ODS", "cornflowerblue", voters$color)
+voters$color <- gsub("ODS", "blue", voters$color)
 voters$color <- gsub("Nezávis.", "red", voters$color)
 voters$color <- gsub("ANO2011", "cyan", voters$color)
 voters$color <- gsub("KOV", "green", voters$color)
@@ -353,5 +222,4 @@ voters$color <- gsub("KSČM", "red", voters$color)
 
 names(voters) <- c("id", "name", "group", "wpca:d1", "wpca:d2", "r", "result", "opacity", "color")
 
-write.csv(voters, "spocitane_hlasovani_vsetin/voters.csv", row.names = FALSE)
-
+write.csv(voters, "voters.csv", row.names = FALSE)
